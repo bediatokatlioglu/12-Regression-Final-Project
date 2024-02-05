@@ -1,0 +1,988 @@
+İlan no,İlan Oda Sayısı,İlan Salon Sayısı,Net m²,Brüt m²,Banyo Sayısı,Binadaki Kat Sayısı,Aidat,Kira Getirisi,Isıtma Tipi,Bulunduğu Kat,Konut Şekli,Krediye Uygun,Bina Yaşı,İlçe,Fiyat,Yapının Durumu,Kullanım Durumu,Mobilya Durumu
+4865558.0,2.0,1,100.0,115.0,1.0,5,,,Kombi (Doğalgaz),1,Ara Kat,Evet,0,Beylikdüzü,1860000.0,Sıfır,Boş,Eşyasız
+4752417.0,4.0,1,165.0,190.0,2.0,10-20 arası,0  TL  (aylık),75.000  TL  (aylık),Yerden Isıtma,16,,Evet,31-35 arası,Kadıköy,17650000.0,,Boş,Eşyasız
+4865597.0,2.0,1,100.0,110.0,1.0,5,30  TL  (aylık),13.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,6-10 arası,Esenler,3150000.0,Sıfır,Kiracılı,Eşyasız
+4863627.0,1.0,1,42.0,59.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),12,Ara Kat,Evet,6-10 arası,Ümraniye,2950000.0,,Kiracılı,Sadece Beyaz Eşya
+4863487.0,2.0,1,95.0,105.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,6-10 arası,Esenyurt,2300000.0,Sıfır,Boş,Eşyasız
+4863389.0,5.0,1,210.0,230.0,2.0,5,,25.000  TL  (aylık),,5,Çatı Dubleksi,Evet,,Sultanbeyli,5750000.0,Sıfır,,Sadece Mutfak
+4517000.0,3.0,1,129.0,130.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,,Evet,11-15 arası,Büyükçekmece,2500000.0,,Boş,Eşyasız
+4863646.0,3.0,1,110.0,120.0,2.0,10,,,Kombi (Doğalgaz),4,Ara Kat,Evet,0,Çekmeköy,10500000.0,Sıfır,Boş,Eşyasız
+4863704.0,2.0,1,90.0,100.0,1.0,4,,,Kalorifer (Doğalgaz),1,Ara Kat,Evet,3,Arnavutköy,2250000.0,Sıfır,Boş,Eşyasız
+4827458.0,1.0,1,95.0,110.0,1.0,8,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,3,Beylikdüzü,1239000.0,İkinci El,Mülk Sahibi,Eşyasız
+4798528.0,6.0,2,250.0,280.0,2.0,6,150  TL  (aylık),30.000  TL  (aylık),Kombi (Doğalgaz),En Üst Kat,,Evet,0,Küçükçekmece,10000000.0,Sıfır,Boş,Eşyasız
+4863248.0,3.0,1,122.0,146.0,2.0,5,,,Kombi (Doğalgaz),1,Ara Kat,Hayır,1,Bakırköy,11250000.0,Sıfır,Mülk Sahibi,Eşyasız
+4863052.0,3.0,1,100.0,120.0,2.0,5,150  TL  (aylık),,Kombi (Doğalgaz),Giriş Katı,Giriş Kat,Evet,21-25 arası,Kadıköy,9250000.0,İkinci El,Boş,Eşyasız
+4787280.0,4.0,1,330.0,405.0,4.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,1,Ara Kat,Evet,6-10 arası,Eyüpsultan,38500000.0,,Boş,Sadece Beyaz Eşya
+4779911.0,2.0,1,85.0,100.0,1.0,6,100  TL  (aylık),0  TL  (aylık),,,,Evet,4,Eyüpsultan,2850000.0,,Mülk Sahibi,Eşyasız
+4862840.0,4.0,1,165.0,192.0,2.0,,,,,,,Hayır,,Başakşehir,13000000.0,,,
+4862874.0,2.0,1,90.0,95.0,1.0,,,,,,,Hayır,,Esenyurt,2555000.0,,,
+4862207.0,3.0,1,100.0,115.0,1.0,4,,25.000  TL  (aylık),Kombi (Doğalgaz),2,,Evet,11-15 arası,Üsküdar,6250000.0,,Boş,
+2416029.0,2.0,1,60.0,70.0,1.0,5,50  TL  (aylık),1.750  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,2,Bahçelievler,2750000.0,İkinci El,Kiracılı,Eşyasız
+4861239.0,2.0,1,90.0,100.0,2.0,4,,,Kombi (Doğalgaz),Yüksek Giriş,Ters Dubleks,Evet,5,Bayrampaşa,2990000.0,İkinci El,Boş,Sadece Mutfak
+4285951.0,3.0,1,110.0,146.0,2.0,8,1.300  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),2,,Evet,0,Pendik,4050000.0,Sıfır,Boş,Eşyasız
+4409561.0,3.0,1,135.0,145.0,2.0,10-20 arası,200  TL  (aylık),0  TL  (aylık),Merkezi Sistem,7,Ara Kat,Evet,6-10 arası,Esenyurt,1350000.0,,Kiracılı,Eşyasız
+4787806.0,3.0,1,150.0,160.0,1.0,10-20 arası,,,Merkezi Sistem (Isı Payı Ölçer),4,Ara Kat,Evet,6-10 arası,Esenyurt,2450000.0,Sıfır,Boş,Eşyasız
+4860478.0,2.0,1,100.0,110.0,1.0,5,,,Kombi (Doğalgaz),4,Ara Kat,Evet,6-10 arası,Esenyurt,1239000.0,İkinci El,Kiracılı,Eşyasız
+4860357.0,2.0,1,110.0,120.0,0.0,5,9.000  TL  (aylık),45  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Beylikdüzü,1455000.0,Sıfır,,Eşyasız
+4860197.0,2.0,1,85.0,90.0,1.0,4,50  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,26-30 arası,Zeytinburnu,2350000.0,,Mülk Sahibi,Eşyasız
+4756735.0,2.0,1,63.0,75.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),En Üst Kat,,Evet,36-40 arası,Şişli,6500000.0,İkinci El,,Eşyasız
+4857999.0,4.0,1,160.0,210.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),2,,Hayır,6-10 arası,Kadıköy,26500000.0,İkinci El,Mülk Sahibi,
+4592569.0,2.0,1,85.0,95.0,1.0,5,,7.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,1,Esenler,3000000.0,İkinci El,Kiracılı,Eşyasız
+4853931.0,3.0,1,110.0,130.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,11,Ara Kat,Evet,6-10 arası,Gaziosmanpaşa,5250000.0,,Mülk Sahibi,Eşyasız
+4853530.0,4.0,1,220.0,270.0,3.0,,,,Kombi (Doğalgaz),11,Ara Kat,Evet,11-15 arası,Beylikdüzü,4775000.0,,Boş,Eşyalı (Mobilyalı)
+4852536.0,2.0,1,55.0,65.0,1.0,4,0  TL  (aylık),20.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Giriş Kat,Evet,3,Bahçelievler,3750000.0,İkinci El,Boş,Eşyasız
+4629982.0,2.0,1,80.0,95.0,1.0,6,0  TL  (aylık),0  TL  (aylık),,1,,Evet,4,Pendik,2700000.0,,Kiracılı,
+4846025.0,3.0,1,130.0,150.0,2.0,3,,15.000  TL  (aylık),Kombi (Doğalgaz),3,Çatı Dubleksi,Evet,11-15 arası,Çekmeköy,3975000.0,İkinci El,Mülk Sahibi,Sadece Mutfak
+4845093.0,2.0,1,67.0,85.0,1.0,6,,,Kombi (Doğalgaz),4,Ara Kat,Evet,0,Kağıthane,3600000.0,Sıfır,Boş,
+4744012.0,2.0,1,85.0,98.0,2.0,3,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,0,Arnavutköy,2375000.0,,Boş,Eşyasız
+4840521.0,1.0,1,60.0,75.0,1.0,10-20 arası,,,Kombi (Doğalgaz),4,Ara Kat,Evet,0,Esenyurt,1300000.0,,Boş,Eşyasız
+4865491.0,2.0,1,100.0,110.0,2.0,9,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,4,Beylikdüzü,3990000.0,,Boş,Eşyasız
+4835912.0,2.0,1,100.0,110.0,1.0,5,80  TL  (aylık),0  TL  (aylık),Kalorifer (Doğalgaz),2,Ara Kat,Evet,4,Esenyurt,945000.0,İkinci El,Boş,Eşyasız
+4608950.0,2.0,1,79.0,117.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),3,,Evet,6-10 arası,Tuzla,2750000.0,İkinci El,Kiracılı,
+4731646.0,2.0,1,100.0,115.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Giriş Katı,,Evet,0,Avcılar,1850000.0,,Boş,Eşyasız
+4865227.0,3.0,1,180.0,200.0,2.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,Dubleks,Evet,6-10 arası,Sancaktepe,3590000.0,Sıfır,Boş,Eşyasız
+4865082.0,2.0,1,110.0,120.0,1.0,4,,,Kombi (Doğalgaz),Giriş Katı,,Evet,0,Beylikdüzü,999000.0,Sıfır,Boş,
+4865608.0,1.0,1,65.0,70.0,1.0,5,30  TL  (aylık),8.000  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Giriş Kat,Evet,5,Esenler,1595000.0,Sıfır,Kiracılı,Eşyasız
+4865113.0,2.0,1,90.0,100.0,1.0,5,100  TL  (aylık),,Kombi (Doğalgaz),Kot 1,,Hayır,31-35 arası,Avcılar,3650000.0,İkinci El,Boş,Eşyasız
+4863430.0,1.0,1,60.0,75.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),8,Ara Kat,Evet,6-10 arası,Başakşehir,1850000.0,Sıfır,Boş,Eşyasız
+4863493.0,3.0,1,114.0,130.0,2.0,7,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,3,Ara Kat,Evet,26-30 arası,Ataşehir,8500000.0,,Boş,Eşyasız
+4284605.0,5.0,1,195.0,240.0,2.0,6,120  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),En Üst Kat,,Evet,21-25 arası,Bakırköy,7750000.0,,Mülk Sahibi,Eşyasız
+4780931.0,2.0,1,100.0,110.0,1.0,5,80  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,4,Esenyurt,945000.0,,Boş,Eşyasız
+4862467.0,2.0,1,80.0,90.0,1.0,5,100  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),5,En Üst Kat,Evet,31-35 arası,Fatih,2495000.0,İkinci El,Boş,Eşyasız
+4690751.0,2.0,1,75.0,90.0,1.0,5,,,Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,36-40 arası,Beşiktaş,7900000.0,İkinci El,Boş,Eşyasız
+4795887.0,2.0,1,70.0,100.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),8,,Evet,5,Maltepe,7650000.0,İkinci El,,Eşyasız
+4861194.0,3.0,1,145.0,175.0,2.0,10-20 arası,1.600  TL  (aylık),30.000  TL  (aylık),Kombi (Doğalgaz),10,Ara Kat,Evet,26-30 arası,Başakşehir,5050000.0,İkinci El,Mülk Sahibi,Eşyasız
+4860649.0,2.0,1,95.0,110.0,1.0,5,,,Kombi (Doğalgaz),Bahçe katı,Giriş Kat,Evet,31-35 arası,Maltepe,2750000.0,İkinci El,Kiracılı,Eşyasız
+4858653.0,2.0,1,95.0,106.0,1.0,4,,,Kalorifer (Doğalgaz),2,Ara Kat,Evet,,Beylikdüzü,2700000.0,İkinci El,Mülk Sahibi,
+4551583.0,3.0,1,120.0,130.0,2.0,7,,,Merkezi Sistem,1,Ara Kat,Evet,40 ve üzeri,Şişli,5450000.0,İkinci El,Boş,Eşyasız
+4856369.0,2.0,1,100.0,120.0,1.0,5,50  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Giriş Kat,Evet,4,Esenyurt,1420000.0,Sıfır,Boş,Eşyasız
+4852374.0,2.0,1,90.0,110.0,1.0,6,30  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),6,En Üst Kat,Hayır,21-25 arası,Güngören,1375000.0,İkinci El,Boş,Eşyasız
+4779898.0,2.0,1,80.0,105.0,1.0,4,,7.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Hayır,21-25 arası,Bayrampaşa,2000000.0,İkinci El,Kiracılı,Sadece Mutfak
+4743975.0,2.0,1,100.0,110.0,2.0,10-20 arası,380  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,6-10 arası,Kadıköy,6750000.0,,Kiracılı,Eşyasız
+4806538.0,2.0,1,85.0,90.0,1.0,5,,10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,11-15 arası,Esenler,2400000.0,İkinci El,Boş,Eşyasız
+4841623.0,2.0,1,75.0,100.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,,Evet,5,Tuzla,3600000.0,İkinci El,Kiracılı,
+4736586.0,3.0,1,95.0,125.0,2.0,10-20 arası,,,Kombi (Doğalgaz),9,,Evet,0,Maltepe,7250000.0,Sıfır,Boş,Eşyasız
+4838601.0,2.0,1,95.0,105.0,2.0,6,,,Kombi (Doğalgaz),,Ara Kat,Evet,0,Kağıthane,6350000.0,Sıfır,Boş,
+4865388.0,3.0,1,165.0,180.0,2.0,10,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),9,Ara Kat,Evet,6-10 arası,Esenyurt,5950000.0,,Mülk Sahibi,Eşyasız
+4614647.0,2.0,1,125.0,135.0,2.0,10-20 arası,,8.500  TL  (aylık),Kombi (Doğalgaz),7,Ara Kat,Evet,0,Beylikdüzü,3200000.0,Sıfır,Boş,
+4833312.0,3.0,1,120.0,125.0,1.0,4,100  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),Kot 3,Ara Kat,Evet,6-10 arası,Esenyurt,3500000.0,İkinci El,Mülk Sahibi,Eşyasız
+4863458.0,1.0,0 (Stüdyo),45.0,55.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,6-10 arası,Esenyurt,1250000.0,Sıfır,Boş,Eşyasız
+4862697.0,3.0,1,120.0,140.0,1.0,4,,,Kombi (Doğalgaz),7,Ara Kat,Evet,2,Sultanbeyli,2350000.0,Sıfır,Kiracılı,Eşyasız
+4862127.0,2.0,2,135.0,150.0,2.0,4,,,Kombi (Doğalgaz),Yüksek Giriş,,Evet,0,Beylikdüzü,1499999.0,Sıfır,Boş,
+4862520.0,3.0,1,120.0,125.0,1.0,4,,,Kombi (Doğalgaz),Yüksek Giriş,Giriş Kat,Evet,1,Esenler,3150000.0,Sıfır,Kiracılı,Eşyasız
+4860947.0,2.0,1,75.0,100.0,1.0,6,300  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),3,Ara Kat,Evet,4,Maltepe,5800000.0,İkinci El,Boş,Sadece Mutfak
+4859741.0,4.0,2,250.0,300.0,2.0,5,200  TL  (aylık),20.000  TL  (aylık),Kombi (Doğalgaz),4,Çatı Dubleksi,Evet,6-10 arası,Pendik,7000000.0,İkinci El,Mülk Sahibi,Eşyasız
+4794482.0,3.0,1,110.0,120.0,1.0,5,50  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),Kot 1,Bahçe Katı,Evet,6-10 arası,Kağıthane,2200000.0,İkinci El,Kiracılı,Eşyasız
+4818039.0,3.0,1,80.0,125.0,1.0,7,0  TL  (aylık),0  TL  (aylık),,6,Ara Kat,Evet,6-10 arası,Bağcılar,4450000.0,,Boş,Eşyasız
+4852343.0,2.0,1,70.0,75.0,1.0,4,50  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),4,En Üst Kat,Evet,40 ve üzeri,Fatih,2100000.0,İkinci El,,Eşyasız
+4847959.0,4.0,2,260.0,300.0,3.0,8,,,,8,Çatı Dubleksi,Evet,0,Kadıköy,60000000.0,Sıfır,Boş,Eşyasız
+4714676.0,2.0,1,90.0,117.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,1,Ara Kat,Evet,0,Silivri,2250000.0,,Boş,Eşyasız
+4780483.0,3.0,1,130.0,140.0,1.0,10-20 arası,100  TL  (aylık),,Kombi (Doğalgaz),10,Ara Kat,Evet,11-15 arası,Beylikdüzü,3250000.0,Sıfır,Boş,Eşyasız
+4802905.0,3.0,1,110.0,126.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),,Giriş Katı,,Evet,21-25 arası,Başakşehir,4950000.0,,Mülk Sahibi,Eşyasız
+4842380.0,3.0,1,128.0,140.0,3.0,3,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,11-15 arası,Ataşehir,3850000.0,,Boş,Eşyasız
+4801918.0,2.0,1,95.0,100.0,1.0,5,,8.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Beylikdüzü,1480000.0,Sıfır,Boş,Eşyasız
+4833542.0,2.0,1,90.0,100.0,1.0,6,0  TL  (aylık),0  TL  (aylık),,5,Ara Kat,Evet,31-35 arası,Beyoğlu,14100000.0,,Mülk Sahibi,Eşyasız
+4798295.0,1.0,1,60.0,75.0,1.0,20 ve üzeri,,8.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),11,Ara Kat,Evet,4,Esenyurt,1200000.0,Sıfır,Boş,Eşyasız
+4861139.0,2.0,1,95.0,126.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),8,Ara Kat,Evet,3,Sancaktepe,3620000.0,Sıfır,Boş,Eşyasız
+4636243.0,3.0,1,110.0,145.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,26-30 arası,Maltepe,2850000.0,İkinci El,Kiracılı,Sadece Mutfak
+4793324.0,4.0,1,140.0,150.0,3.0,6,200  TL  (aylık),15.000  TL  (aylık),Kalorifer (Doğalgaz),5,Bahçe Katı,Evet,6-10 arası,Eyüpsultan,6225000.0,İkinci El,Kiracılı,Eşyasız
+4681317.0,2.0,1,72.0,79.0,1.0,10-20 arası,350  TL  (aylık),0  TL  (aylık),,7,Ara Kat,Evet,1,Kadıköy,6300000.0,,Kiracılı,Eşyasız
+4588092.0,2.0,1,120.0,135.0,2.0,3,0  TL  (aylık),0  TL  (aylık),Klima,3,En Üst Kat,Evet,36-40 arası,Beşiktaş,17950000.0,İkinci El,Mülk Sahibi,Eşyalı (Mobilyalı)
+4849490.0,2.0,1,70.0,73.0,1.0,4,50  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),4,,Hayır,26-30 arası,Şişli,2150000.0,,Boş,Eşyasız
+4845521.0,2.0,1,110.0,115.0,1.0,4,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,,Evet,4,Sancaktepe,1800000.0,İkinci El,Boş,Eşyasız
+4802916.0,3.0,1,120.0,140.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,Giriş Katı,,Evet,6-10 arası,Eyüpsultan,5500000.0,,Mülk Sahibi,Eşyasız
+4842338.0,3.0,1,100.0,110.0,1.0,8,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,0,Kartal,6500000.0,,Boş,Eşyasız
+4448830.0,2.0,1,85.0,104.0,1.0,4,,5.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,26-30 arası,Bayrampaşa,1920000.0,İkinci El,Kiracılı,Sadece Mutfak
+4860597.0,2.0,1,90.0,100.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,3,Maltepe,3150000.0,Sıfır,Mülk Sahibi,Eşyasız
+4855177.0,3.0,1,130.0,150.0,1.0,4,100  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),2,,Evet,21-25 arası,Avcılar,3000000.0,İkinci El,Boş,Eşyalı (Mobilyalı)
+4819296.0,1.0,1,60.0,75.0,1.0,20 ve üzeri,0  TL  (aylık),10.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),20 ve üzeri,Ara Kat,Evet,6-10 arası,Esenyurt,1250000.0,Sıfır,Boş,Eşyasız
+4854229.0,3.0,1,95.0,138.0,2.0,20 ve üzeri,,35.000  TL  (aylık),Merkezi Sistem,4,Ara Kat,Evet,4,Kadıköy,7950000.0,İkinci El,,Sadece Mutfak
+4711385.0,3.0,1,125.0,135.0,1.0,7,1.000  TL  (aylık),40.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),En Üst Kat,En Üst Kat,Evet,36-40 arası,Beşiktaş,10500000.0,İkinci El,Kiracılı,Eşyasız
+4526602.0,3.0,1,120.0,130.0,2.0,7,200  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),7,En Üst Kat,Evet,6-10 arası,Silivri,3300000.0,,Mülk Sahibi,Eşyasız
+3926382.0,3.0,1,110.0,146.0,2.0,8,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),2,Ara Kat,Evet,0,Pendik,4050000.0,,Boş,Eşyasız
+4822747.0,4.0,2,250.0,300.0,3.0,4,,,Merkezi Sistem (Isı Payı Ölçer),4,Çatı Dubleksi,Evet,4,Maltepe,18650000.0,İkinci El,,Eşyasız
+4815321.0,3.0,1,140.0,165.0,2.0,5,1.000  TL  (aylık),,Merkezi Sistem,1,Ara Kat,Evet,36-40 arası,Bakırköy,11850000.0,İkinci El,Boş,Eşyasız
+4811907.0,3.0,1,102.0,126.0,1.0,3,50  TL  (aylık),20.000  TL  (aylık),Yerden Isıtma,,,Evet,31-35 arası,Kadıköy,3450000.0,İkinci El,,Eşyasız
+4806514.0,5.0,1,220.0,280.0,2.0,10,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),9,,Evet,4,Eyüpsultan,11995000.0,İkinci El,,Eşyasız
+4285956.0,2.0,1,60.0,75.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),10,Ara Kat,Evet,6-10 arası,Maltepe,5100000.0,İkinci El,Kiracılı,Eşyasız
+4813811.0,2.0,1,80.0,90.0,1.0,4,60  TL  (aylık),20.000  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,,Evet,16-20 arası,Kadıköy,3950000.0,İkinci El,,Eşyasız
+4779885.0,3.0,1,80.0,90.0,1.0,5,50  TL  (aylık),18.000  TL  (aylık),Kombi (Doğalgaz),Kot 1,Ara Kat,Evet,31-35 arası,Kadıköy,2200000.0,İkinci El,Boş,Eşyasız
+4832193.0,3.0,1,90.0,110.0,2.0,5,20  TL  (aylık),20.000  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Hayır,16-20 arası,Kağıthane,4350000.0,İkinci El,Mülk Sahibi,Eşyasız
+4784504.0,5.0,1,260.0,310.0,3.0,7,0  TL  (aylık),0  TL  (aylık),Klima,7,Çatı Dubleksi,Evet,16-20 arası,Çekmeköy,10250000.0,,Mülk Sahibi,Eşyalı (Mobilyalı)
+4784437.0,3.0,2,145.0,170.0,2.0,5,0  TL  (aylık),0  TL  (aylık),,5,Ara Dubleks,Evet,11-15 arası,Maltepe,5499000.0,,Kiracılı,Eşyasız
+4662421.0,2.0,1,75.0,90.0,1.0,5,,,Kombi (Doğalgaz),4,Ara Kat,Evet,36-40 arası,Beyoğlu,4750000.0,,Kiracılı,Sadece Mutfak
+4784461.0,3.0,1,90.0,110.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,4,Ara Kat,Evet,11-15 arası,Maltepe,4490000.0,,Kiracılı,Eşyasız
+4709368.0,3.0,1,132.0,178.0,2.0,,,,Merkezi Sistem (Isı Payı Ölçer),8,Ara Kat,Evet,0,Zeytinburnu,13000000.0,,,Eşyasız
+4846696.0,3.0,1,140.0,165.0,2.0,7,,,Kalorifer (Doğalgaz),1,Ara Kat,Evet,,Üsküdar,6250000.0,İkinci El,Kiracılı,Eşyasız
+4172184.0,3.0,1,90.0,110.0,1.0,5,,,Kombi (Doğalgaz),3,Ara Kat,Evet,40 ve üzeri,Bakırköy,4000000.0,İkinci El,Kiracılı,Eşyasız
+4735154.0,,,65.0,92.0,,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),,,Evet,11-15 arası,Kartal,3850000.0,,Mülk Sahibi,
+4703282.0,3.0,1,110.0,120.0,1.0,5,,,Kombi (Doğalgaz),3,Ara Kat,Evet,6-10 arası,Küçükçekmece,3900000.0,İkinci El,Mülk Sahibi,Eşyasız
+4692818.0,,,170.0,220.0,,4,0  TL  (aylık),0  TL  (aylık),Klima,,,Evet,31-35 arası,Kadıköy,24950000.0,,Boş,
+4836713.0,1.0,1,46.0,73.0,1.0,10-20 arası,,13.500  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,1,Bağcılar,2750000.0,İkinci El,Kiracılı,Eşyasız
+4736583.0,3.0,1,100.0,120.0,1.0,4,,,Kombi (Doğalgaz),1,Ara Kat,Evet,31-35 arası,Kartal,3100000.0,İkinci El,Boş,Eşyasız
+4712014.0,,,110.0,130.0,,4,120  TL  (aylık),0  TL  (aylık),,,,Evet,11-15 arası,Kartal,6250000.0,,Kiracılı,
+4780845.0,3.0,1,100.0,135.0,2.0,5,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),,,Evet,6-10 arası,Maltepe,5650000.0,,Boş,
+4843674.0,3.0,1,130.0,155.0,2.0,10-20 arası,600  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,,Evet,21-25 arası,Kadıköy,12250000.0,,,Eşyasız
+4842121.0,4.0,1,150.0,210.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),1,Ara Kat,Evet,26-30 arası,Kadıköy,9250000.0,,Boş,Eşyasız
+4842135.0,3.0,1,100.0,135.0,2.0,3,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,Giriş Katı,,Evet,31-35 arası,Kadıköy,10950000.0,,Boş,Eşyasız
+4842153.0,5.0,1,260.0,320.0,3.0,5,300  TL  (aylık),0  TL  (aylık),Klima,5,Çatı Dubleksi,Hayır,31-35 arası,Bakırköy,12400000.0,,Boş,Eşyasız
+4842187.0,4.0,1,200.0,250.0,2.0,6,400  TL  (aylık),0  TL  (aylık),,6,Çatı Dubleksi,Evet,26-30 arası,Sarıyer,8500000.0,,Boş,Eşyasız
+4842196.0,3.0,1,150.0,200.0,3.0,4,0  TL  (aylık),0  TL  (aylık),Klima,3,Ara Kat,Hayır,26-30 arası,Kadıköy,21750000.0,,Boş,Eşyasız
+4842212.0,4.0,1,160.0,180.0,2.0,6,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,4,Ara Kat,Evet,26-30 arası,Kadıköy,12950000.0,,Boş,Eşyasız
+4842139.0,2.0,1,85.0,105.0,2.0,10,0  TL  (aylık),0  TL  (aylık),Klima,8,Ara Kat,Evet,0,Kadıköy,7900000.0,,Boş,Eşyasız
+4842154.0,3.0,1,100.0,125.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,26-30 arası,Kadıköy,6500000.0,,Kiracılı,Eşyasız
+4842194.0,2.0,1,85.0,105.0,2.0,9,0  TL  (aylık),0  TL  (aylık),Klima,7,Ara Kat,Evet,0,Kadıköy,6700000.0,,Boş,Eşyasız
+4842176.0,3.0,1,140.0,165.0,2.0,7,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,31-35 arası,Üsküdar,10000000.0,,Kiracılı,Eşyasız
+4692821.0,,,115.0,145.0,,,0  TL  (aylık),0  TL  (aylık),Klima,7,,Evet,4,Kadıköy,14950000.0,,Boş,
+4842181.0,2.0,1,80.0,90.0,2.0,4,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,4,Sancaktepe,2190000.0,,Kiracılı,Eşyalı (Mobilyalı)
+4842125.0,2.0,2,140.0,155.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,Bahçe katı,Bahçe Dubleksi,Evet,21-25 arası,Bakırköy,6750000.0,,Mülk Sahibi,Eşyasız
+4866677.0,3.0,1,140.0,155.0,2.0,10,,,Kombi (Doğalgaz),3,Ara Kat,Evet,11-15 arası,Çekmeköy,4400000.0,İkinci El,Kiracılı,Eşyasız
+4653352.0,4.0,1,191.0,244.0,2.0,5,0  TL  (aylık),0  TL  (aylık),Klima,5,,Evet,0,Eyüpsultan,13900.0,Sıfır,Boş,
+4866611.0,2.0,1,90.0,100.0,1.0,8,750  TL  (aylık),17  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Evet,11-15 arası,Kartal,4000000.0,,Kiracılı,Eşyasız
+4653333.0,2.0,1,95.0,132.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Combi Boiler (Natural Gas),1,,Yes,0,Eyüpsultan,7650000.0,New Building,Vacant,
+4652400.0,1.0,1,50.0,66.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Klima,1,,Evet,0,Eyüpsultan,4350000.0,Sıfır,Boş,
+4829268.0,1.0,1,60.0,73.0,1.0,10-20 arası,,,Kombi (Doğalgaz),11,Ara Kat,Evet,3,Bağcılar,3140000.0,İkinci El,Mülk Sahibi,Eşyasız
+4865240.0,2.0,1,77.0,95.0,1.0,4,,15.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,2,Avcılar,3050000.0,Sıfır,Boş,Eşyasız
+4866547.0,4.0,1,135.0,165.0,2.0,7,1.750  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),6,Ara Kat,Evet,11-15 arası,Pendik,10750000.0,İkinci El,Kiracılı,Eşyasız
+4866470.0,3.0,1,135.0,140.0,2.0,10,,15.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),6,Ara Kat,Evet,3,Beylikdüzü,1550000.0,Sıfır,Boş,Eşyasız
+4829423.0,3.0,1,90.0,120.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,5,Ara Kat,Evet,4,Kadıköy,11000000.0,,Mülk Sahibi,Eşyasız
+4829420.0,3.0,1,85.0,115.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Klima,5,Ara Kat,Evet,6-10 arası,Kartal,3600000.0,,Boş,Eşyasız
+4829417.0,4.0,1,180.0,195.0,2.0,10,0  TL  (aylık),0  TL  (aylık),Klima,8,Ara Kat,Hayır,6-10 arası,Kadıköy,18950000.0,,Boş,Sadece Beyaz Eşya
+4866444.0,2.0,1,95.0,105.0,1.0,6,45  TL  (aylık),9.000  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,0,Beylikdüzü,1528000.0,Sıfır,Boş,Eşyasız
+4866427.0,2.0,1,100.0,110.0,1.0,6,45  TL  (aylık),9.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,0,Beylikdüzü,1462000.0,Sıfır,Boş,Eşyasız
+4866418.0,2.0,1,71.0,85.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Ters Dubleks,Evet,0,Sultanbeyli,1940000.0,Sıfır,Boş,Eşyasız
+4866412.0,2.0,1,85.0,100.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,0,Sancaktepe,2785000.0,Sıfır,Boş,Eşyasız
+4759834.0,1.0,1,64.0,65.0,1.0,2,,,Kombi (Doğalgaz),Yüksek Giriş,Ara Kat,Evet,6-10 arası,Bahçelievler,1700000.0,İkinci El,Kiracılı,Eşyasız
+4818945.0,2.0,1,84.0,85.0,1.0,3,,,Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,5,Bahçelievler,1990000.0,İkinci El,Mülk Sahibi,Eşyasız
+4707253.0,3.0,1,125.0,130.0,1.0,5,,,Kombi (Doğalgaz),5,Ara Kat,Evet,21-25 arası,Bahçelievler,2600000.0,İkinci El,Mülk Sahibi,Eşyasız
+4679788.0,2.0,1,85.0,90.0,1.0,5,,,Kombi (Doğalgaz),2,Ara Kat,Evet,0,Küçükçekmece,4200000.0,Sıfır,Boş,Eşyasız
+4866340.0,2.0,1,85.0,100.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Klima,2,Ara Kat,Evet,0,Sancaktepe,1750000.0,Sıfır,Boş,Eşyasız
+4866337.0,2.0,1,85.0,100.0,1.0,7,0  TL  (aylık),0  TL  (aylık),Klima,3,Ara Kat,Evet,0,Çekmeköy,2250000.0,Sıfır,Boş,Eşyasız
+4866330.0,2.0,1,85.0,100.0,1.0,8,0  TL  (aylık),0  TL  (aylık),Klima,2,Ara Kat,Evet,0,Çekmeköy,2220000.0,Sıfır,Boş,Eşyasız
+4866320.0,2.0,1,85.0,100.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Klima,2,Ara Kat,Evet,0,Sancaktepe,1740000.0,Sıfır,Boş,Eşyasız
+4866311.0,2.0,1,85.0,100.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Klima,3,Ara Kat,Evet,0,Çekmeköy,2150000.0,Sıfır,Boş,Eşyasız
+4866301.0,2.0,1,85.0,100.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Klima,3,Ara Kat,Evet,0,Sancaktepe,1750000.0,,Boş,Sadece Beyaz Eşya
+4866278.0,3.0,1,196.0,250.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,14,Ara Kat,Evet,6-10 arası,Beylikdüzü,13000000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4866274.0,3.0,1,115.0,135.0,2.0,4,,,Kombi (Doğalgaz),3,Ara Kat,Evet,0,Beylikdüzü,1575000.0,Sıfır,Boş,Eşyasız
+4866269.0,2.0,1,85.0,100.0,1.0,7,0  TL  (aylık),0  TL  (aylık),Klima,Bahçe katı,Ters Dubleks,Evet,0,Sancaktepe,1760000.0,,Boş,Sadece Beyaz Eşya
+4866257.0,2.0,1,80.0,95.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Klima,Bahçe katı,Ters Dubleks,Evet,3,Sancaktepe,2200000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4866248.0,2.0,1,85.0,100.0,1.0,7,0  TL  (aylık),0  TL  (aylık),Klima,Bahçe katı,Ters Dubleks,Evet,0,Çekmeköy,2200000.0,,Boş,Sadece Beyaz Eşya
+4862163.0,4.0,1,135.0,170.0,2.0,10-20 arası,775  TL  (aylık),95.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),18,,Evet,3,Kadıköy,18250000.0,Sıfır,Boş,Eşyalı (Mobilyalı)
+4866196.0,2.0,1,75.0,90.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,4,Sancaktepe,2470000.0,Sıfır,Boş,Eşyasız
+4866187.0,2.0,1,75.0,100.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,3,Sancaktepe,2185000.0,İkinci El,Mülk Sahibi,Eşyasız
+4724696.0,2.0,1,90.0,95.0,1.0,,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Sancaktepe,1950000.0,Sıfır,Boş,Eşyasız
+4724691.0,3.0,1,110.0,125.0,1.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Giriş Kat,Evet,0,Çekmeköy,2000000.0,Sıfır,Boş,Eşyasız
+4724684.0,3.0,1,120.0,135.0,2.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),Çatı Katı,Çatı Dubleksi,Evet,0,Sultanbeyli,2500000.0,Sıfır,Boş,Eşyasız
+4724484.0,2.0,1,88.0,95.0,2.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,0,Sancaktepe,1950000.0,Sıfır,Boş,Eşyasız
+4448932.0,3.0,1,85.0,95.0,2.0,4,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,0,Sancaktepe,2300000.0,Sıfır,Mülk Sahibi,Eşyasız
+4441098.0,3.0,1,100.0,110.0,1.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,1,Sancaktepe,2400000.0,Sıfır,Kiracılı,Eşyasız
+4500433.0,2.0,1,79.0,87.0,1.0,6,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Çekmeköy,2000000.0,Sıfır,Kiracılı,Eşyasız
+3019849.0,4.0,1,200.0,220.0,2.0,5,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,3,Ara Kat,Evet,16-20 arası,Beşiktaş,22000000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+3726190.0,3.0,1,115.0,130.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Gaziosmanpaşa,3750000.0,,Boş,Eşyalı (Mobilyalı)
+3720690.0,2.0,1,85.0,90.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,,Evet,0,Gaziosmanpaşa,2500000.0,,Boş,Eşyalı (Mobilyalı)
+4248524.0,4.0,1,210.0,230.0,1.0,5,,,Kombi (Doğalgaz),5,Çatı Dubleksi,Evet,21-25 arası,Bakırköy,7500000.0,,Mülk Sahibi,
+4404096.0,2.0,1,80.0,105.0,2.0,10-20 arası,800  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),9,,Evet,6-10 arası,Kartal,5000000.0,İkinci El,,Eşyasız
+4645104.0,5.0,1,380.0,450.0,4.0,7,1.500  TL  (aylık),0  TL  (aylık),Klima,7,Çatı Dubleksi,Evet,11-15 arası,Şişli,56000000.0,İkinci El,Mülk Sahibi,Eşyasız
+4767899.0,4.0,2,180.0,210.0,2.0,10,,,Kombi (Doğalgaz),10,Çatı Dubleksi,Evet,1,Kadıköy,14950000.0,Sıfır,Boş,Sadece Mutfak
+4766711.0,3.0,1,135.0,188.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),Bahçe katı,Bahçe Dubleksi,Evet,6-10 arası,Sarıyer,22500000.0,,Boş,Eşyasız
+4467262.0,2.0,1,85.0,100.0,1.0,5,,,Kalorifer (Doğalgaz),2,Ara Kat,Evet,0,Esenyurt,1750000.0,Sıfır,Boş,Eşyasız
+4829572.0,3.0,1,100.0,115.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,21-25 arası,Ataşehir,6000000.0,,Kiracılı,Eşyasız
+4829825.0,3.0,1,130.0,135.0,1.0,4,,15.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,0,Beylikdüzü,2825000.0,Sıfır,Boş,Eşyasız
+4829863.0,3.0,1,130.0,135.0,1.0,4,,12.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Giriş Kat,Evet,0,Esenyurt,1199000.0,Sıfır,Boş,Eşyasız
+4829575.0,3.0,1,100.0,115.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,21-25 arası,Ataşehir,6000000.0,,Kiracılı,Eşyasız
+4767858.0,2.0,1,85.0,110.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),10,Ara Kat,Evet,6-10 arası,Sultangazi,3195000.0,,Mülk Sahibi,Eşyasız
+4802273.0,3.0,1,160.0,190.0,2.0,2,0  TL  (aylık),0  TL  (aylık),Klima,2,Çatı Dubleksi,Evet,6-10 arası,Sarıyer,18900000.0,,Boş,Sadece Beyaz Eşya
+4830488.0,3.0,1,90.0,120.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Klima,Yüksek Giriş,,Evet,11-15 arası,Ümraniye,4200000.0,,Boş,Eşyasız
+4604383.0,2.0,1,77.0,114.0,2.0,10-20 arası,860  TL  (aylık),0  TL  (aylık),Klima,11,Ara Kat,Evet,6-10 arası,Gaziosmanpaşa,4600000.0,,Mülk Sahibi,Eşyasız
+4604379.0,4.0,2,170.0,190.0,3.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),4,Çatı Dubleksi,Evet,6-10 arası,Gaziosmanpaşa,4250000.0,,Mülk Sahibi,Eşyasız
+4802101.0,3.0,1,130.0,135.0,2.0,4,,,Kombi (Doğalgaz),Yüksek Giriş,Ters Dubleks,Evet,11-15 arası,Zeytinburnu,3100000.0,İkinci El,,Eşyasız
+4802098.0,3.0,1,130.0,135.0,1.0,4,,,Kalorifer (Doğalgaz),Yüksek Giriş,Ters Dubleks,Evet,11-15 arası,Zeytinburnu,3100000.0,İkinci El,Kiracılı,Eşyasız
+4802147.0,3.0,1,140.0,145.0,2.0,4,,,Kombi (Doğalgaz),3,Çatı Dubleksi,Evet,11-15 arası,Zeytinburnu,3500000.0,İkinci El,,Eşyasız
+4801844.0,2.0,1,95.0,120.0,2.0,4,,,Kombi (Doğalgaz),4,Dubleks,Evet,0,Beylikdüzü,3000000.0,Sıfır,Boş,Eşyasız
+4830281.0,3.0,1,110.0,120.0,1.0,5,,15.000  TL  (aylık),Kombi (Doğalgaz),,,Hayır,26-30 arası,Küçükçekmece,2900000.0,İkinci El,Boş,
+4646473.0,2.0,1,85.0,95.0,1.0,5,100  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,26-30 arası,Beşiktaş,3900000.0,,Mülk Sahibi,Eşyasız
+4767531.0,1.0,1,70.0,90.0,1.0,20 ve üzeri,0  TL  (aylık),5.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),20 ve üzeri,Ara Kat,Evet,4,Esenyurt,1350000.0,Sıfır,Boş,Eşyalı (Mobilyalı)
+4767356.0,2.0,1,110.0,130.0,1.0,20 ve üzeri,0  TL  (aylık),13.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),4,Ara Kat,Evet,4,Esenyurt,1850000.0,Sıfır,Boş,Eşyasız
+4697220.0,1.0,1,61.0,75.0,1.0,10-20 arası,5.200  TL  (aylık),,Merkezi Sistem (Isı Payı Ölçer),6,Ara Kat,Evet,21-25 arası,Beşiktaş,12950000.0,İkinci El,Mülk Sahibi,Eşyasız
+4866283.0,3.0,1,135.0,150.0,1.0,10-20 arası,,,Kombi (Doğalgaz),8,Ara Kat,Evet,6-10 arası,Beylikdüzü,3699000.0,Sıfır,Boş,Eşyasız
+4767082.0,2.0,1,100.0,115.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Soba (Doğalgaz),2,Ara Kat,Evet,6-10 arası,Pendik,2500000.0,,Mülk Sahibi,Eşyasız
+4098917.0,2.0,1,65.0,75.0,1.0,5,0  TL  (aylık),5.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Ara Kat,Evet,2,Şişli,3000000.0,İkinci El,Mülk Sahibi,Eşyasız
+4829662.0,3.0,1,140.0,150.0,2.0,10,0  TL  (aylık),20.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Giriş Kat,Evet,11-15 arası,Beylikdüzü,2650000.0,Sıfır,Boş,Eşyasız
+4419509.0,2.0,1,90.0,110.0,1.0,3,,,Kombi (Doğalgaz),3,En Üst Kat,Hayır,36-40 arası,Sarıyer,7000000.0,,Boş,Eşyasız
+4471078.0,3.0,1,110.0,120.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,Bahçe katı,Bahçe Katı,Hayır,6-10 arası,Küçükçekmece,2714000.0,İkinci El,Boş,Eşyalı (Mobilyalı)
+4606796.0,3.0,1,100.0,110.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),6,,Evet,26-30 arası,Sarıyer,7000000.0,,Kiracılı,Eşyasız
+4829782.0,3.0,1,110.0,140.0,2.0,4,100  TL  (aylık),18.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,31-35 arası,Maltepe,3900000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4829847.0,2.0,1,110.0,120.0,1.0,4,,15.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Esenyurt,1449000.0,Sıfır,Boş,Eşyasız
+4866120.0,1.0,1,48.0,58.0,1.0,7,,,Merkezi Sistem (Isı Payı Ölçer),6,Ara Kat,Evet,6-10 arası,Sultanbeyli,2800000.0,İkinci El,Kiracılı,Eşyasız
+4640994.0,3.0,1,115.0,125.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,0,Silivri,3150000.0,,Boş,Eşyasız
+4829769.0,1.0,1,70.0,80.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,8,Ara Kat,Evet,6-10 arası,Esenyurt,1300000.0,Sıfır,Boş,Eşyasız
+4829666.0,2.0,1,100.0,105.0,1.0,10-20 arası,,10.000  TL  (aylık),,11,Ara Kat,Evet,0,Beylikdüzü,1625000.0,Sıfır,Boş,Eşyasız
+4866641.0,3.0,1,115.0,130.0,2.0,5,500  TL  (aylık),,Kat Kaloriferi,2,Ara Kat,Evet,31-35 arası,Kadıköy,5280000.0,İkinci El,Mülk Sahibi,Eşyasız
+4866351.0,2.0,1,110.0,125.0,2.0,10,,,Kombi (Doğalgaz),5,,Evet,4,Beylikdüzü,2700000.0,Sıfır,Boş,Eşyasız
+4865907.0,2.0,1,95.0,110.0,1.0,4,50  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Evet,26-30 arası,Şişli,5750000.0,,Boş,Eşyalı (Mobilyalı)
+4829779.0,1.0,1,50.0,80.0,1.0,9,,,Kalorifer (Doğalgaz),Zemin Kat,Ara Kat,Evet,0,Eyüpsultan,4200000.0,Sıfır,Boş,Eşyasız
+4830290.0,1.0,1,70.0,80.0,1.0,20 ve üzeri,0  TL  (aylık),15.000  TL  (aylık),Merkezi Sistem,3,Ara Kat,Evet,4,Esenyurt,1350000.0,Sıfır,Boş,Eşyasız
+4866361.0,2.0,1,80.0,90.0,1.0,4,,10.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,26-30 arası,Bahçelievler,1550000.0,İkinci El,Boş,Eşyasız
+4829421.0,3.0,1,90.0,120.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,1,Ara Kat,Evet,31-35 arası,Maltepe,3400000.0,,Kiracılı,Eşyasız
+4866447.0,3.0,2,190.0,200.0,2.0,5,,,Kombi (Doğalgaz),3,Ara Dubleks,Evet,,Sultangazi,4000000.0,İkinci El,Mülk Sahibi,Eşyasız
+4866442.0,2.0,1,105.0,110.0,1.0,5,,,Kombi (Doğalgaz),3,Ara Kat,Evet,6-10 arası,Sultangazi,3350000.0,İkinci El,Mülk Sahibi,Eşyasız
+4866436.0,2.0,1,90.0,95.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,6-10 arası,Sultangazi,1500000.0,İkinci El,Kiracılı,Eşyasız
+4866554.0,2.0,1,60.0,65.0,1.0,4,50  TL  (aylık),12.000  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,,Evet,26-30 arası,Fatih,2500000.0,,Boş,Eşyasız
+4866431.0,2.0,1,95.0,100.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Bahçe katı,Bahçe Katı,Evet,11-15 arası,Sultangazi,1675000.0,İkinci El,Boş,Eşyasız
+4866419.0,2.0,1,85.0,90.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Bahçe katı,Bahçe Katı,Evet,3,Sultangazi,1699000.0,,Boş,Eşyasız
+4801951.0,2.0,1,85.0,100.0,2.0,6,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,1,Silivri,2650000.0,,Boş,Eşyasız
+4767956.0,2.0,1,110.0,125.0,2.0,20 ve üzeri,0  TL  (aylık),13.000  TL  (aylık),Kombi (Doğalgaz),17,Ara Kat,Evet,6-10 arası,Esenyurt,1400000.0,Sıfır,Boş,Eşyasız
+4866413.0,2.0,1,95.0,100.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Yüksek Giriş,Giriş Kat,Hayır,21-25 arası,Sultangazi,1445000.0,İkinci El,Boş,Eşyasız
+4830468.0,2.0,1,85.0,95.0,1.0,3,50  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Hayır,4,Arnavutköy,2600000.0,,Kiracılı,Eşyasız
+4865947.0,1.0,1,70.0,90.0,1.0,10,0  TL  (aylık),13.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,11-15 arası,Beylikdüzü,2580000.0,Sıfır,Boş,Eşyasız
+4865944.0,1.0,1,60.0,75.0,1.0,20 ve üzeri,0  TL  (aylık),13.000  TL  (aylık),Merkezi Sistem,12,Ara Kat,Evet,4,Esenyurt,2500000.0,Sıfır,Boş,Eşyasız
+4865942.0,1.0,1,65.0,85.0,1.0,20 ve üzeri,0  TL  (aylık),10.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),20 ve üzeri,Ara Kat,Evet,6-10 arası,Esenyurt,1590000.0,Sıfır,Boş,Eşyasız
+4865939.0,1.0,1,65.0,85.0,1.0,10-20 arası,0  TL  (aylık),9.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),7,Ara Kat,Evet,4,Esenyurt,1200000.0,Sıfır,Boş,Eşyasız
+4865926.0,1.0,0 (Stüdyo),50.0,70.0,1.0,10-20 arası,0  TL  (aylık),7.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),1,Ara Kat,Evet,3,Esenyurt,1225000.0,Sıfır,Boş,Eşyasız
+4865923.0,4.0,2,245.0,260.0,3.0,5,0  TL  (aylık),30.000  TL  (aylık),Kombi (Doğalgaz),4,Çatı Dubleksi,Evet,1,Beylikdüzü,7000000.0,Sıfır,Boş,Eşyasız
+4865915.0,2.0,1,95.0,105.0,1.0,5,0  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,0,Beylikdüzü,3600000.0,Sıfır,Boş,Eşyasız
+4497373.0,2.0,1,40.0,50.0,1.0,4,0  TL  (aylık),5.500  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,40 ve üzeri,Fatih,990000.0,İkinci El,Kiracılı,Eşyasız
+3875503.0,3.0,1,120.0,155.0,2.0,10-20 arası,,,Merkezi Sistem (Isı Payı Ölçer),9,Ara Kat,Evet,31-35 arası,Kadıköy,19000000.0,İkinci El,Kiracılı,
+4866469.0,2.0,1,95.0,100.0,1.0,5,,,Kombi (Doğalgaz),2,Ara Kat,Evet,11-15 arası,Sultangazi,2579000.0,İkinci El,Kiracılı,Eşyasız
+4865948.0,3.0,1,120.0,135.0,1.0,4,0  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Esenyurt,3800000.0,Sıfır,Boş,Eşyasız
+4466987.0,3.0,1,110.0,120.0,2.0,5,,8.000  TL  (aylık),Kombi (Doğalgaz),Kot 3,Ara Kat,Hayır,0,Şile,4250000.0,Sıfır,Boş,Sadece Mutfak
+4866224.0,4.0,1,175.0,200.0,3.0,8,,,Merkezi Sistem (Isı Payı Ölçer),8,,Evet,4,Ataşehir,12000000.0,,Mülk Sahibi,
+4767593.0,3.0,1,90.0,100.0,1.0,5,75  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Giriş Kat,Evet,26-30 arası,Pendik,2500000.0,İkinci El,Boş,Eşyasız
+4866659.0,3.0,1,155.0,185.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),13,,Evet,21-25 arası,Beylikdüzü,4500000.0,İkinci El,Kiracılı,
+4767903.0,2.0,1,80.0,85.0,1.0,4,,9.000  TL  (aylık),Kalorifer (Doğalgaz),1,Ara Kat,Evet,6-10 arası,Esenler,2200000.0,İkinci El,Kiracılı,Eşyasız
+4599484.0,2.0,1,120.0,149.0,2.0,8,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),1,,Evet,4,Başakşehir,6500000.0,,Boş,Eşyasız
+4866231.0,2.0,1,50.0,70.0,1.0,5,0  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),Kot 2,Bahçe Katı,Evet,0,Ataşehir,2350000.0,Sıfır,Boş,Eşyasız
+4865931.0,1.0,1,60.0,75.0,1.0,20 ve üzeri,0  TL  (aylık),12.000  TL  (aylık),Kombi (Doğalgaz),10,Ara Kat,Evet,3,Esenyurt,2200000.0,,Boş,Eşyasız
+4866513.0,2.0,1,100.0,110.0,1.0,4,,,Kombi (Doğalgaz),3,Ara Kat,Evet,6-10 arası,Esenler,3490000.0,İkinci El,Mülk Sahibi,
+4802131.0,2.0,1,75.0,80.0,1.0,4,,,Kombi (Doğalgaz),1,,Evet,11-15 arası,Zeytinburnu,2850000.0,İkinci El,Kiracılı,Eşyasız
+4802187.0,2.0,1,85.0,90.0,1.0,3,350  TL  (aylık),,Kombi (Doğalgaz),Kot 2,Ara Kat,Evet,11-15 arası,Arnavutköy,4000000.0,,,
+4606140.0,4.0,2,200.0,220.0,2.0,5,,,,5,Çatı Dubleksi,Evet,0,Gaziosmanpaşa,5000000.0,Sıfır,Boş,Eşyasız
+4467173.0,2.0,1,90.0,95.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,,Evet,31-35 arası,Üsküdar,2725000.0,,Mülk Sahibi,Eşyasız
+4467219.0,2.0,1,80.0,90.0,1.0,5,30  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,,Evet,31-35 arası,Üsküdar,2200000.0,,Boş,Eşyasız
+4467184.0,2.0,1,75.0,100.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,,Evet,6-10 arası,Üsküdar,5000000.0,,Boş,Eşyasız
+4696366.0,5.0,3,380.0,450.0,5.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),17,Ara Kat,Evet,4,Esenyurt,5500000.0,,Mülk Sahibi,Eşyasız
+4696713.0,3.0,1,130.0,150.0,2.0,5,,10.000  TL  (aylık),Kombi (Doğalgaz),En Üst Kat,Çatı Dubleksi,Evet,,Sultanbeyli,2350000.0,Sıfır,Boş,Sadece Mutfak
+4646114.0,3.0,1,100.0,250.0,1.0,6,0  TL  (aylık),0  TL  (aylık),,6,,Evet,31-35 arası,Üsküdar,23500000.0,İkinci El,Mülk Sahibi,Eşyasız
+4697211.0,4.0,2,130.0,160.0,2.0,5,,,Kombi (Doğalgaz),4,Dubleks,Evet,6-10 arası,Sultangazi,4250000.0,İkinci El,Mülk Sahibi,Eşyasız
+4646073.0,3.0,1,105.0,140.0,2.0,4,2.900  TL  (aylık),,Yerden Isıtma,Bahçe katı,Bahçe Dubleksi,Evet,5,Sarıyer,18800000.0,İkinci El,Mülk Sahibi,Eşyasız
+4645215.0,3.0,1,120.0,130.0,1.0,4,,,Kombi (Doğalgaz),2,Ara Kat,Hayır,26-30 arası,Bağcılar,1900000.0,İkinci El,Kiracılı,Eşyasız
+4767147.0,2.0,1,65.0,90.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,16-20 arası,Ümraniye,2800000.0,,Mülk Sahibi,Eşyasız
+4830934.0,4.0,2,145.0,165.0,2.0,3,50  TL  (aylık),0  TL  (aylık),,3,Çatı Dubleksi,Evet,1,Arnavutköy,3550000.0,,Mülk Sahibi,Eşyasız
+4646867.0,3.0,1,130.0,140.0,1.0,10,400  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),10,En Üst Kat,Evet,16-20 arası,Esenyurt,3550000.0,İkinci El,Mülk Sahibi,Eşyasız
+4646721.0,3.0,1,120.0,135.0,2.0,10-20 arası,,10.000  TL  (aylık),Kombi (Doğalgaz),9,Ara Kat,Evet,6-10 arası,Esenyurt,2800000.0,İkinci El,Mülk Sahibi,Eşyasız
+4767748.0,2.0,1,70.0,90.0,1.0,10-20 arası,,,Merkezi Sistem (Isı Payı Ölçer),1,Giriş Kat,Evet,4,Küçükçekmece,2800000.0,İkinci El,Mülk Sahibi,
+4767876.0,1.0,1,85.0,95.0,1.0,5,,,Kombi (Doğalgaz),1,Giriş Kat,Hayır,21-25 arası,Küçükçekmece,1000000.0,,Mülk Sahibi,
+4605187.0,3.0,1,140.0,170.0,1.0,4,1.500  TL  (aylık),,Merkezi Sistem (Isı Payı Ölçer),4,Dubleks,Evet,4,Beylikdüzü,3945000.0,İkinci El,,Eşyasız
+4251692.0,5.0,2,370.0,510.0,3.0,2,,,,2,,Evet,0,Büyükçekmece,27000000.0,Sıfır,Boş,Eşyasız
+4251676.0,5.0,2,370.0,510.0,3.0,2,,,,2,Tripleks,Evet,0,Büyükçekmece,27000000.0,Sıfır,Boş,Eşyasız
+4251554.0,3.0,1,144.0,178.0,2.0,10-20 arası,,,Merkezi Sistem,1,,Evet,0,Avcılar,4515000.0,Sıfır,Boş,Eşyasız
+4251547.0,3.0,1,144.0,178.0,2.0,10-20 arası,,,Merkezi Sistem,1,,Evet,0,Avcılar,4515000.0,Sıfır,Boş,Eşyasız
+4251649.0,4.0,1,200.0,226.0,3.0,10-20 arası,,,Merkezi Sistem,1,,Evet,0,Avcılar,6842000.0,Sıfır,Boş,Eşyasız
+4251682.0,5.0,2,370.0,510.0,3.0,2,,,,2,Tripleks,Evet,0,Büyükçekmece,27000000.0,Sıfır,Boş,Eşyasız
+4251603.0,4.0,1,200.0,226.0,3.0,10-20 arası,,,Merkezi Sistem,1,,Evet,0,Avcılar,6842000.0,Sıfır,Boş,Eşyasız
+4251533.0,3.0,1,144.0,178.0,2.0,10-20 arası,,,Merkezi Sistem,1,,Evet,0,Avcılar,4515000.0,Sıfır,Boş,Eşyasız
+4251493.0,3.0,1,144.0,178.0,2.0,10-20 arası,,,Merkezi Sistem,1,,Evet,0,Avcılar,4515000.0,Sıfır,Boş,Eşyasız
+4251623.0,4.0,1,200.0,226.0,3.0,10-20 arası,,,Merkezi Sistem,,,Evet,0,Avcılar,6842000.0,Sıfır,Boş,Eşyasız
+4251667.0,5.0,2,370.0,510.0,3.0,2,,,,2,Tripleks,Evet,0,Büyükçekmece,27000000.0,Sıfır,Boş,Eşyasız
+4504845.0,4.0,1,210.0,237.0,4.0,5,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),3,,Hayır,6-10 arası,Bakırköy,27140000.0,İkinci El,Kiracılı,
+4697794.0,2.0,1,120.0,140.0,2.0,5,3.870  TL  (aylık),,Yerden Isıtma,4,Çatı Dubleksi,Evet,1,Sarıyer,10750000.0,Sıfır,Mülk Sahibi,Eşyasız
+4767490.0,4.0,1,228.0,286.0,3.0,8,15.000  TL  (aylık),,Merkezi Sistem,8,En Üst Kat,Evet,16-20 arası,Şişli,86000000.0,İkinci El,Boş,
+4802141.0,3.0,1,140.0,145.0,2.0,,,,Kombi (Doğalgaz),3,,Evet,11-15 arası,Zeytinburnu,3950000.0,İkinci El,Kiracılı,Eşyasız
+4732226.0,3.0,1,120.0,125.0,1.0,5,70  TL  (aylık),8.500  TL  (aylık),Kombi (Doğalgaz),3,,Evet,36-40 arası,Bahçelievler,1890000.0,İkinci El,,Eşyasız
+4562907.0,2.0,1,60.0,67.0,1.0,9,,,Merkezi Sistem,,,Evet,21-25 arası,Kağıthane,3065000.0,İkinci El,Mülk Sahibi,Eşyasız
+4683697.0,1.0,1,70.0,90.0,1.0,6,,,Kombi (Doğalgaz),2,Giriş Kat,Hayır,0,Esenyurt,1390000.0,Sıfır,,Eşyasız
+4829953.0,2.0,1,75.0,85.0,1.0,10-20 arası,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,4,Esenyurt,1350000.0,Sıfır,Boş,Eşyasız
+4518122.0,2.0,1,110.0,120.0,2.0,4,150  TL  (aylık),0  TL  (aylık),Klima,2,Ara Kat,Evet,31-35 arası,Zeytinburnu,2650000.0,,Kiracılı,Eşyasız
+4467208.0,2.0,1,70.0,86.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),,,Hayır,31-35 arası,Üsküdar,1550000.0,,Mülk Sahibi,Eşyasız
+4605989.0,3.0,1,90.0,110.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,4,En Üst Kat,Evet,31-35 arası,Beşiktaş,13000000.0,,Kiracılı,Eşyasız
+4646392.0,3.0,1,115.0,130.0,1.0,7,,10.000  TL  (aylık),Kalorifer (Doğalgaz),6,Ara Kat,Evet,11-15 arası,Kartal,3650000.0,İkinci El,Mülk Sahibi,
+4802115.0,2.0,1,75.0,80.0,1.0,4,,,Kombi (Doğalgaz),2,Ara Kat,Evet,11-15 arası,Zeytinburnu,2850000.0,İkinci El,Kiracılı,Eşyasız
+4865945.0,1.0,0 (Stüdyo),40.0,60.0,1.0,20 ve üzeri,0  TL  (aylık),10.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),14,Ara Kat,Evet,4,Başakşehir,1250000.0,Sıfır,Boş,Eşyasız
+4865930.0,3.0,1,135.0,145.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Giriş Katı,,Evet,16-20 arası,Beykoz,9200000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4692553.0,2.0,1,70.0,90.0,1.0,5,100  TL  (aylık),0  TL  (aylık),,4,Ara Kat,Evet,31-35 arası,Güngören,3250000.0,,Kiracılı,Eşyasız
+4825180.0,3.0,2,220.0,225.0,2.0,4,100  TL  (aylık),17.500  TL  (aylık),Kombi (Doğalgaz),4,Dubleks,Evet,16-20 arası,Avcılar,4650000.0,İkinci El,Mülk Sahibi,Eşyasız
+4605856.0,1.0,0 (Stüdyo),45.0,50.0,1.0,10-20 arası,,,Merkezi Sistem (Isı Payı Ölçer),Kot 3,,Evet,2,Başakşehir,1350000.0,İkinci El,Kiracılı,Eşyasız
+4696359.0,3.0,1,100.0,140.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,11,Ara Kat,Evet,6-10 arası,Başakşehir,6150000.0,,Mülk Sahibi,Eşyasız
+4698221.0,2.0,1,95.0,100.0,1.0,4,60  TL  (aylık),7.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,,Avcılar,2650000.0,İkinci El,Kiracılı,Eşyasız
+4865941.0,2.0,1,80.0,90.0,1.0,4,0  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,0,Beylikdüzü,3000000.0,Sıfır,Boş,Eşyasız
+4865925.0,1.0,1,60.0,75.0,1.0,10-20 arası,0  TL  (aylık),11.000  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Evet,6-10 arası,Esenyurt,1500000.0,Sıfır,Boş,Eşyasız
+4865917.0,1.0,1,65.0,85.0,1.0,10-20 arası,0  TL  (aylık),8.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),7,Ara Kat,Evet,4,Esenyurt,1150000.0,Sıfır,Boş,Eşyasız
+4697568.0,1.0,1,48.0,50.0,1.0,20 ve üzeri,1.500  TL  (aylık),7.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),20 ve üzeri,Ara Kat,Evet,,Esenyurt,1430000.0,İkinci El,Kiracılı,Eşyalı (Mobilyalı)
+4645172.0,2.0,1,90.0,100.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Soba (Kömür),5,,Hayır,26-30 arası,Büyükçekmece,1400000.0,,Boş,Eşyasız
+4830936.0,3.0,1,115.0,125.0,2.0,3,50  TL  (aylık),0  TL  (aylık),,3,En Üst Kat,Hayır,11-15 arası,Arnavutköy,2300000.0,,Boş,Eşyasız
+4865006.0,1.0,1,68.0,78.0,1.0,10-20 arası,,,Merkezi Sistem (Isı Payı Ölçer),2,Ara Kat,Evet,6-10 arası,Sancaktepe,3150000.0,İkinci El,Kiracılı,Eşyasız
+4865932.0,1.0,1,65.0,85.0,1.0,10-20 arası,0  TL  (aylık),7.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),8,Ara Kat,Evet,6-10 arası,Esenyurt,1050000.0,,Boş,Eşyasız
+4802016.0,2.0,1,85.0,90.0,1.0,5,,,Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,,Sultangazi,1299000.0,İkinci El,,
+4802253.0,5.0,2,230.0,250.0,3.0,5,,20.000  TL  (aylık),Kombi (Doğalgaz),,Ara Dubleks,Evet,0,Sultangazi,5000000.0,,,
+4802254.0,4.0,2,180.0,190.0,2.0,5,,,Kombi (Doğalgaz),5,Ara Dubleks,Evet,0,Sultangazi,4500000.0,,Boş,
+4802183.0,2.0,1,90.0,105.0,1.0,5,,,Kombi (Doğalgaz),2,Ara Kat,Evet,6-10 arası,Sultangazi,2550000.0,İkinci El,Boş,
+4866374.0,2.0,1,90.0,95.0,1.0,5,,,Kombi (Doğalgaz),3,Ara Kat,Hayır,6-10 arası,Esenyurt,1560000.0,İkinci El,Mülk Sahibi,Eşyasız
+4696829.0,3.0,1,130.0,140.0,1.0,,,,,4,,Hayır,21-25 arası,Esenler,1450000.0,,Boş,
+4829845.0,2.0,1,85.0,90.0,1.0,5,,,Kombi (Doğalgaz),4,Ara Kat,Evet,6-10 arası,Esenyurt,1700000.0,Sıfır,Boş,Eşyasız
+4829795.0,1.0,1,65.0,85.0,1.0,1,550  TL  (aylık),,Kalorifer (Doğalgaz),2,Ara Kat,Evet,6-10 arası,Eyüpsultan,2950000.0,İkinci El,Kiracılı,Eşyasız
+4452509.0,3.0,1,120.0,135.0,2.0,4,100  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,21-25 arası,Maltepe,3750000.0,,Mülk Sahibi,Eşyasız
+4866325.0,4.0,1,170.0,220.0,2.0,,,,Kombi (Doğalgaz),Çatı Katı,En Üst Kat,Evet,26-30 arası,Beşiktaş,15700000.0,,Boş,
+4830470.0,2.0,1,75.0,85.0,1.0,10,600  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Hayır,11-15 arası,Arnavutköy,2200000.0,,Kiracılı,Eşyasız
+4606624.0,1.0,1,40.0,60.0,1.0,4,,,Kombi (Doğalgaz),2,Ara Kat,Evet,11-15 arası,Kartal,1990000.0,İkinci El,Kiracılı,Eşyasız
+4767095.0,3.0,1,127.0,137.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Hayır,26-30 arası,Kartal,1850000.0,,Kiracılı,Eşyasız
+4830437.0,3.0,1,115.0,130.0,1.0,3,50  TL  (aylık),0  TL  (aylık),,Bahçe katı,Bahçe Katı,Evet,3,Arnavutköy,2225000.0,,Mülk Sahibi,Eşyasız
+4768246.0,2.0,1,85.0,100.0,2.0,5,100  TL  (aylık),0  TL  (aylık),,2,,Evet,6-10 arası,Sancaktepe,2450000.0,,Boş,Eşyasız
+4865919.0,2.0,1,100.0,120.0,1.0,10,0  TL  (aylık),10.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),1,Ara Kat,Evet,0,Esenyurt,2390000.0,Sıfır,Boş,Eşyasız
+4695843.0,3.0,1,185.0,220.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,10,Ara Kat,Evet,4,Sarıyer,14000000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4695807.0,2.0,1,95.0,115.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,6,Ara Kat,Evet,6-10 arası,Sarıyer,9445000.0,,Kiracılı,Sadece Beyaz Eşya
+4695823.0,1.0,1,65.0,80.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,10,Ara Kat,Evet,6-10 arası,Sarıyer,6577000.0,,Mülk Sahibi,Eşyasız
+4830352.0,2.0,1,90.0,100.0,1.0,5,0  TL  (aylık),13.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,6-10 arası,Beylikdüzü,2050000.0,Sıfır,Boş,Eşyalı (Mobilyalı)
+4605221.0,3.0,2,157.0,177.0,3.0,4,,,Kombi (Doğalgaz),4,Dubleks,Evet,0,Beylikdüzü,6100000.0,Sıfır,Boş,
+4866024.0,,,125.0,130.0,,3,0  TL  (aylık),0  TL  (aylık),,1,,Evet,11-15 arası,Güngören,3300000.0,,Boş,
+4646599.0,3.0,1,120.0,140.0,2.0,8,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),8,En Üst Kat,Evet,21-25 arası,Küçükçekmece,3050000.0,İkinci El,Mülk Sahibi,Eşyasız
+4865521.0,3.0,1,90.0,95.0,1.0,6,0  TL  (aylık),0  TL  (aylık),,,Ara Kat,Evet,11-15 arası,Kağıthane,3200000.0,,Mülk Sahibi,Eşyasız
+4865940.0,1.0,0 (Stüdyo),45.0,60.0,1.0,20 ve üzeri,0  TL  (aylık),8.000  TL  (aylık),Merkezi Sistem,4,Ara Kat,Evet,2,Esenyurt,1075000.0,Sıfır,Boş,Eşyasız
+4865670.0,2.0,1,85.0,95.0,1.0,4,,12.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,31-35 arası,Bahçelievler,1400000.0,İkinci El,Boş,Eşyasız
+4697846.0,2.0,1,78.0,85.0,1.0,4,50  TL  (aylık),5.000  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,Ara Kat,Hayır,21-25 arası,Esenler,1450000.0,İkinci El,Kiracılı,
+4697027.0,2.0,1,90.0,100.0,1.0,6,100  TL  (aylık),8.500  TL  (aylık),Kombi (Doğalgaz),Kot 3,Ara Kat,Hayır,26-30 arası,Esenler,1900000.0,İkinci El,Mülk Sahibi,Eşyasız
+4768261.0,3.0,1,150.0,185.0,1.0,10-20 arası,,,Kombi (Doğalgaz),11,Ara Kat,Evet,16-20 arası,Beylikdüzü,4100000.0,İkinci El,Kiracılı,Eşyasız
+4802108.0,2.0,1,75.0,80.0,1.0,4,,,Kombi (Doğalgaz),2,Ara Kat,Hayır,11-15 arası,Zeytinburnu,2850000.0,İkinci El,Kiracılı,Eşyasız
+4666341.0,4.0,1,145.0,165.0,3.0,4,500  TL  (aylık),28.000  TL  (aylık),Kombi (Doğalgaz),2,,Evet,0,Maltepe,16000000.0,Sıfır,Boş,Eşyasız
+4866349.0,2.0,1,110.0,125.0,2.0,10,0  TL  (aylık),0  TL  (aylık),,5,Ara Kat,Evet,4,Beylikdüzü,2700000.0,,Boş,Eşyasız
+4865936.0,2.0,1,80.0,100.0,1.0,10-20 arası,0  TL  (aylık),13.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),4,Ara Kat,Evet,6-10 arası,Esenyurt,1880000.0,Sıfır,Boş,Eşyasız
+4866225.0,3.0,1,160.0,197.0,2.0,20 ve üzeri,,,Merkezi Sistem,6,Ara Kat,Evet,4,Avcılar,8500000.0,İkinci El,Boş,Eşyasız
+4866648.0,3.0,1,100.0,120.0,1.0,4,150  TL  (aylık),0  TL  (aylık),Klima,4,En Üst Kat,Evet,31-35 arası,Şişli,4450000.0,,Kiracılı,Eşyasız
+4695801.0,2.0,1,150.0,200.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,Bahçe katı,,Evet,6-10 arası,Sarıyer,13300000.0,,Boş,Sadece Beyaz Eşya
+4865375.0,2.0,1,125.0,140.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),,13,Ara Kat,Evet,11-15 arası,Beylikdüzü,3100000.0,,Boş,Sadece Beyaz Eşya
+4866023.0,,,100.0,110.0,,6,0  TL  (aylık),0  TL  (aylık),,1,,Evet,6-10 arası,Esenler,3300000.0,,Mülk Sahibi,
+4768095.0,4.0,1,150.0,170.0,2.0,10,,,Merkezi Sistem (Isı Payı Ölçer),1,Ara Kat,Hayır,5,Başakşehir,6350000.0,İkinci El,Mülk Sahibi,
+4830354.0,2.0,1,75.0,85.0,1.0,3,60  TL  (aylık),,Kombi (Doğalgaz),1,Ara Kat,Evet,5,Çekmeköy,3090000.0,İkinci El,Mülk Sahibi,Eşyasız
+4865336.0,1.0,1,45.0,65.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,0,Çekmeköy,1695000.0,Sıfır,Boş,Eşyasız
+4865913.0,1.0,1,70.0,85.0,1.0,10-20 arası,0  TL  (aylık),9.000  TL  (aylık),Merkezi Sistem,9,Ara Kat,Evet,4,Esenyurt,1190000.0,Sıfır,Boş,Eşyasız
+4865311.0,2.0,1,85.0,100.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Sancaktepe,3250000.0,Sıfır,Boş,Eşyasız
+4830480.0,3.0,2,175.0,190.0,2.0,3,50  TL  (aylık),0  TL  (aylık),,3,Çatı Dubleksi,Evet,1,Arnavutköy,3150000.0,,Kiracılı,Eşyasız
+4696690.0,3.0,1,110.0,120.0,2.0,5,,7.000  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,0,Sultanbeyli,2250000.0,Sıfır,Boş,Sadece Mutfak
+4865356.0,2.0,1,110.0,120.0,1.0,4,,,Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,0,Beylikdüzü,1399000.0,Sıfır,Boş,
+4645169.0,4.0,1,120.0,140.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,5,,Evet,11-15 arası,Sultangazi,2250000.0,,Boş,Eşyasız
+4646985.0,2.0,1,80.0,85.0,1.0,4,,,Kombi (Doğalgaz),2,Ara Kat,Evet,1,Esenyurt,1500000.0,İkinci El,Kiracılı,Eşyasız
+4865292.0,3.0,1,100.0,125.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Ters Dubleks,Evet,0,Sancaktepe,2150000.0,Sıfır,Boş,Eşyasız
+4830482.0,2.0,1,80.0,95.0,1.0,6,0  TL  (aylık),0  TL  (aylık),,4,Ara Kat,Evet,31-35 arası,Beyoğlu,13750000.0,,Boş,Eşyasız
+4865278.0,3.0,1,120.0,140.0,1.0,3,,,Kombi (Doğalgaz),3,Dubleks,Evet,,Sancaktepe,3275000.0,Sıfır,Boş,Eşyasız
+4866610.0,1.0,1,40.0,50.0,1.0,,,,,,,Hayır,,Pendik,1999999.0,,,
+4865933.0,1.0,1,60.0,75.0,1.0,10-20 arası,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),6,Ara Kat,Evet,6-10 arası,Esenyurt,1480000.0,Sıfır,Boş,Eşyasız
+4865178.0,4.0,2,180.0,230.0,2.0,4,100  TL  (aylık),18.000  TL  (aylık),Kombi (Doğalgaz),4,Ara Dubleks,Evet,5,Küçükçekmece,4500000.0,İkinci El,Mülk Sahibi,Eşyasız
+4865188.0,3.0,1,110.0,120.0,2.0,4,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,6-10 arası,Bağcılar,3500000.0,,Mülk Sahibi,Eşyasız
+4865205.0,3.0,1,100.0,115.0,2.0,5,0  TL  (aylık),0  TL  (aylık),Klima,Bahçe katı,Bahçe Katı,Evet,6-10 arası,Kağıthane,4250000.0,,Mülk Sahibi,Eşyasız
+4695848.0,1.0,1,65.0,90.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),10,Ara Kat,Evet,6-10 arası,Sarıyer,7229000.0,,Kiracılı,Eşyasız
+4767983.0,3.0,1,150.0,200.0,2.0,5,,,Merkezi Sistem (Isı Payı Ölçer),2,Ara Kat,Evet,6-10 arası,Eyüpsultan,14900000.0,,Kiracılı,Eşyasız
+4697708.0,2.0,1,57.0,87.0,1.0,10-20 arası,,22.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),14,Ara Kat,Evet,6-10 arası,Zeytinburnu,4100000.0,İkinci El,Kiracılı,Sadece Mutfak
+4865172.0,1.0,1,75.0,85.0,1.0,10-20 arası,850  TL  (aylık),8.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Esenyurt,1320000.0,Sıfır,Boş,Eşyasız
+4604377.0,4.0,1,155.0,170.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),5,,Evet,16-20 arası,Gaziosmanpaşa,1525000.0,,Kiracılı,Eşyasız
+4865157.0,2.0,1,80.0,90.0,1.0,6,40  TL  (aylık),7.500  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,0,Beylikdüzü,942000.0,Sıfır,Boş,Eşyasız
+4865478.0,2.0,1,80.0,90.0,1.0,4,,13.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,11-15 arası,Bahçelievler,2300000.0,İkinci El,Boş,Eşyasız
+4866656.0,2.0,1,90.0,95.0,1.0,5,,,Kombi (Doğalgaz),3,Ara Kat,Evet,6-10 arası,Esenyurt,1600000.0,Sıfır,Mülk Sahibi,Eşyasız
+4828217.0,4.0,1,185.0,225.0,3.0,9,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Evet,6-10 arası,Şişli,33950000.0,İkinci El,Kiracılı,Eşyasız
+4828223.0,4.0,2,300.0,330.0,3.0,9,0  TL  (aylık),0  TL  (aylık),Combi Boiler (Natural Gas),,Triplex,Yes,Between 6-10,Şişli,33950000.0,Second Hand,Occupied By Tenant,Unfurnished
+4829164.0,3.0,1,100.0,125.0,1.0,4,100  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,40 ve üzeri,Şişli,5950000.0,İkinci El,Mülk Sahibi,Eşyasız
+4695856.0,3.0,1,127.0,150.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,10,Ara Kat,Evet,6-10 arası,Sarıyer,14700000.0,,Kiracılı,Sadece Beyaz Eşya
+4865104.0,4.0,1,140.0,160.0,2.0,3,,,Kombi (Doğalgaz),3,Dubleks,Hayır,5,Sultanbeyli,3850000.0,İkinci El,Kiracılı,Eşyasız
+4865098.0,2.0,1,85.0,100.0,1.0,7,,15.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Çekmeköy,2200000.0,Sıfır,,Eşyasız
+4646175.0,1.0,1,65.0,70.0,1.0,20 ve üzeri,909  TL  (aylık),9.000  TL  (aylık),Kombi (Doğalgaz),20 ve üzeri,Ara Kat,Evet,6-10 arası,Esenyurt,1455000.0,İkinci El,Mülk Sahibi,Eşyasız
+4865472.0,2.0,1,110.0,120.0,1.0,8,0  TL  (aylık),0  TL  (aylık),Klima,2,Ara Kat,Evet,6-10 arası,Beylikdüzü,3650000.0,,Mülk Sahibi,Eşyasız
+4865953.0,3.0,1,130.0,145.0,2.0,20 ve üzeri,0  TL  (aylık),20.000  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,6-10 arası,Esenyurt,2340000.0,Sıfır,Boş,Eşyasız
+4865951.0,1.0,1,60.0,75.0,1.0,20 ve üzeri,0  TL  (aylık),12.000  TL  (aylık),Merkezi Sistem,15,Ara Kat,Evet,6-10 arası,Esenyurt,1650000.0,Sıfır,Boş,Eşyasız
+4865950.0,2.0,1,80.0,100.0,1.0,10-20 arası,0  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,6-10 arası,Esenyurt,1900000.0,Sıfır,Boş,Eşyasız
+4865949.0,2.0,1,70.0,90.0,1.0,5,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,,Evet,0,Beylikdüzü,1900000.0,Sıfır,Boş,Eşyasız
+4865946.0,1.0,1,70.0,90.0,1.0,10-20 arası,0  TL  (aylık),14.000  TL  (aylık),Kombi (Doğalgaz),9,Ara Kat,Evet,6-10 arası,Esenyurt,1700000.0,Sıfır,Boş,Eşyasız
+4865943.0,1.0,1,60.0,70.0,2.0,20 ve üzeri,0  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Evet,6-10 arası,Beylikdüzü,3500000.0,Sıfır,Boş,Eşyasız
+4865937.0,1.0,1,60.0,75.0,1.0,20 ve üzeri,0  TL  (aylık),12.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),10,Ara Kat,Evet,3,Esenyurt,1180000.0,Sıfır,Boş,Eşyasız
+4865935.0,2.0,1,90.0,100.0,1.0,10-20 arası,0  TL  (aylık),14.000  TL  (aylık),Merkezi Sistem,4,Ara Kat,Evet,6-10 arası,Esenyurt,1850000.0,Sıfır,Boş,Eşyasız
+4865934.0,1.0,1,75.0,95.0,1.0,10-20 arası,0  TL  (aylık),10.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),9,Ara Kat,Evet,4,Esenyurt,1580000.0,Sıfır,Boş,Eşyasız
+4865929.0,1.0,1,60.0,75.0,1.0,20 ve üzeri,0  TL  (aylık),10.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),6,Ara Kat,Evet,6-10 arası,Esenyurt,1160000.0,Sıfır,Boş,Eşyasız
+4865928.0,2.0,1,85.0,100.0,1.0,10-20 arası,0  TL  (aylık),14.000  TL  (aylık),Merkezi Sistem,1,Ara Kat,Evet,6-10 arası,Esenyurt,1800000.0,Sıfır,Boş,Eşyasız
+4865927.0,1.0,1,70.0,90.0,1.0,10,0  TL  (aylık),14.000  TL  (aylık),Kombi (Doğalgaz),9,Ara Kat,Evet,6-10 arası,Esenyurt,1520000.0,Sıfır,Boş,Eşyasız
+4865924.0,1.0,1,65.0,85.0,1.0,10-20 arası,0  TL  (aylık),8.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),4,Ara Kat,Evet,4,Esenyurt,985000.0,Sıfır,Boş,Eşyasız
+4865922.0,1.0,0 (Stüdyo),40.0,50.0,1.0,10-20 arası,0  TL  (aylık),4.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),5,Ara Kat,Evet,4,Esenyurt,795000.0,Sıfır,Boş,Eşyasız
+4865920.0,2.0,1,120.0,135.0,1.0,20 ve üzeri,0  TL  (aylık),15.000  TL  (aylık),Merkezi Sistem,17,Ara Kat,Evet,6-10 arası,Esenyurt,1575000.0,Sıfır,Boş,Eşyasız
+4865918.0,1.0,0 (Stüdyo),35.0,45.0,1.0,20 ve üzeri,0  TL  (aylık),8.000  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,6-10 arası,Esenyurt,1050000.0,Sıfır,Boş,Eşyasız
+4865912.0,1.0,1,70.0,80.0,1.0,9,0  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,6-10 arası,Esenyurt,2150000.0,Sıfır,Boş,Eşyasız
+4865910.0,1.0,0 (Stüdyo),45.0,55.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),4,Ara Kat,Evet,6-10 arası,Esenyurt,1420000.0,,Boş,Eşyalı (Mobilyalı)
+4865908.0,1.0,1,70.0,90.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),2,Ara Kat,Evet,4,Esenyurt,1500000.0,,Boş,Eşyasız
+4865905.0,2.0,1,90.0,110.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,18,Ara Kat,Evet,4,Esenyurt,2650000.0,,Boş,Eşyalı (Mobilyalı)
+4865903.0,1.0,1,67.0,80.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),10,Ara Kat,Evet,1,Esenyurt,1100000.0,,Boş,Eşyasız
+4865900.0,2.0,1,90.0,110.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),2,Ara Kat,Evet,4,Esenyurt,1750000.0,,Boş,Eşyasız
+4865886.0,1.0,0 (Stüdyo),40.0,50.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,8,Ara Kat,Evet,6-10 arası,Esenyurt,1250000.0,,Boş,Eşyasız
+4865885.0,3.0,1,140.0,160.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,4,Ara Kat,Evet,6-10 arası,Esenyurt,2970000.0,,Boş,Eşyasız
+4865878.0,2.0,1,90.0,110.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),10,Ara Kat,Evet,4,Esenyurt,1650000.0,,Boş,Eşyasız
+4825761.0,2.0,1,90.0,95.0,1.0,4,50  TL  (aylık),8.000  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Giriş Kat,Evet,16-20 arası,Avcılar,1725000.0,İkinci El,Boş,Eşyasız
+4634072.0,3.0,1,110.0,135.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),1,Ara Kat,Evet,1,Pendik,4090000.0,,Kiracılı,Eşyasız
+4754869.0,3.0,1,150.0,155.0,1.0,5,100  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),,Ara Kat,Evet,5,Avcılar,4650000.0,İkinci El,Boş,Eşyasız
+4827676.0,5.0,1,140.0,165.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),4,Çatı Dubleksi,Evet,0,Sultanbeyli,3950000.0,Sıfır,Boş,Eşyasız
+4634142.0,3.0,1,100.0,115.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,0,Pendik,3080000.0,Sıfır,Boş,Eşyasız
+4581236.0,2.0,1,80.0,95.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,0,Sultanbeyli,1890000.0,Sıfır,Boş,Eşyasız
+4829812.0,1.0,1,68.0,90.0,1.0,,,,,,,Hayır,,Başakşehir,3799600.0,,,
+4865938.0,2.0,1,85.0,100.0,1.0,10-20 arası,0  TL  (aylık),12.000  TL  (aylık),Merkezi Sistem,6,Ara Kat,Evet,0,Esenyurt,1700000.0,Sıfır,Boş,Eşyasız
+4629446.0,2.0,1,100.0,110.0,1.0,5,40  TL  (aylık),6.500  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,0,Esenyurt,1445000.0,Sıfır,Boş,Eşyasız
+4827867.0,2.0,1,110.0,120.0,1.0,5,45  TL  (aylık),8.500  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,0,Beylikdüzü,1490000.0,Sıfır,Boş,Eşyasız
+4828507.0,2.0,1,95.0,105.0,1.0,5,45  TL  (aylık),8.500  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,3,Beylikdüzü,1438000.0,Sıfır,Boş,Eşyasız
+4828530.0,3.0,1,130.0,140.0,1.0,6,45  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,2,Beylikdüzü,2350000.0,Sıfır,Boş,Eşyasız
+4865691.0,3.0,1,110.0,125.0,1.0,4,50  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Hayır,21-25 arası,Güngören,1950000.0,İkinci El,Boş,Eşyasız
+4023002.0,4.0,1,200.0,250.0,3.0,3,,,,2,Ara Kat,Evet,26-30 arası,Beşiktaş,130000000.0,İkinci El,Mülk Sahibi,Eşyasız
+4646904.0,1.0,1,60.0,65.0,1.0,5,40  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Evet,11-15 arası,Zeytinburnu,1800000.0,,Mülk Sahibi,Eşyasız
+4652829.0,1.0,1,71.0,75.0,1.0,20 ve üzeri,800  TL  (aylık),8.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),15,Ara Kat,Evet,0,Esenyurt,2350000.0,Sıfır,Boş,Eşyasız
+4696362.0,1.0,1,50.0,58.0,1.0,8,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),1,,Evet,4,Başakşehir,2430000.0,,Kiracılı,Eşyasız
+4866359.0,3.0,1,110.0,115.0,1.0,,,,Kombi (Doğalgaz),Giriş Katı,Giriş Kat,Evet,6-10 arası,Esenyurt,1560000.0,Sıfır,Mülk Sahibi,
+4562735.0,3.0,1,79.0,100.0,2.0,10-20 arası,0  TL  (aylık),25.000  TL  (aylık),Kombi (Doğalgaz),8,Ara Kat,Evet,0,Kadıköy,5900000.0,Sıfır,Boş,
+4865346.0,3.0,1,135.0,150.0,2.0,10,,,Kombi (Doğalgaz),6,Ara Kat,Evet,6-10 arası,Esenyurt,3750000.0,İkinci El,Boş,Eşyasız
+4336332.0,2.0,1,83.0,100.0,2.0,3,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,0,Sancaktepe,2000000.0,Sıfır,Boş,Eşyasız
+4865592.0,2.0,1,110.0,120.0,1.0,4,,12.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Giriş Kat,Evet,0,Esenyurt,999000.0,Sıfır,Boş,Eşyasız
+4865601.0,2.0,1,85.0,95.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,6-10 arası,Gaziosmanpaşa,2850000.0,,Kiracılı,Eşyasız
+4736101.0,,,145.0,160.0,,10,700  TL  (aylık),0  TL  (aylık),Klima,1,,Evet,6-10 arası,Büyükçekmece,3200000.0,,Mülk Sahibi,
+4727470.0,2.0,1,90.0,95.0,1.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,0,Sancaktepe,1950000.0,Sıfır,Boş,Eşyasız
+4727527.0,2.0,1,90.0,98.0,1.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,0,Çekmeköy,2200000.0,Sıfır,Boş,Eşyasız
+4695995.0,3.0,1,120.0,150.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),,10,Ara Kat,Evet,2,Eyüpsultan,7500000.0,,Mülk Sahibi,Eşyasız
+4695968.0,2.0,1,70.0,75.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,2,Eyüpsultan,2100000.0,,Mülk Sahibi,Eşyasız
+4727518.0,2.0,1,88.0,95.0,2.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Çekmeköy,2000000.0,Sıfır,Boş,Eşyasız
+4604363.0,2.0,1,95.0,110.0,1.0,5,,11.000  TL  (aylık),Merkezi Sistem,4,Ara Kat,Evet,40 ve üzeri,Fatih,4000000.0,İkinci El,Boş,Eşyasız
+4727507.0,2.0,1,88.0,94.0,1.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,0,Çekmeköy,2000000.0,Sıfır,Boş,Eşyasız
+4727497.0,3.0,1,95.0,100.0,1.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Sancaktepe,2300000.0,Sıfır,Boş,Eşyasız
+4694280.0,4.0,2,170.0,200.0,2.0,10-20 arası,300  TL  (aylık),0  TL  (aylık),Klima,13,Çatı Dubleksi,Evet,6-10 arası,Ümraniye,5775000.0,,Mülk Sahibi,Eşyasız
+4694281.0,3.0,1,150.0,225.0,3.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,20 ve üzeri,,Evet,4,Ataşehir,17800000.0,,Kiracılı,Sadece Beyaz Eşya
+4727450.0,3.0,1,110.0,120.0,1.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),Çatı Katı,Çatı Dubleksi,Evet,0,Sultanbeyli,2500000.0,Sıfır,Boş,Eşyasız
+4727929.0,4.0,2,365.0,400.0,4.0,3,0  TL  (aylık),0  TL  (aylık),Klima,Bahçe katı,Bahçe Dubleksi,Evet,31-35 arası,Beşiktaş,142000000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4800690.0,3.0,1,120.0,130.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,Giriş Katı,,Evet,5,Esenyurt,1300000.0,Sıfır,Boş,Eşyasız
+4800700.0,2.0,1,100.0,110.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,2,,Evet,4,Esenyurt,1450000.0,Sıfır,Boş,Eşyasız
+4727440.0,2.0,1,90.0,95.0,1.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Çekmeköy,2200000.0,Sıfır,Boş,Eşyasız
+4829259.0,3.0,1,150.0,170.0,1.0,5,,,Kombi (Doğalgaz),5,En Üst Kat,Evet,0,Bahçelievler,6600000.0,Sıfır,Mülk Sahibi,
+4800666.0,2.0,1,65.0,80.0,1.0,5,100  TL  (aylık),0  TL  (aylık),Klima,Yüksek Giriş,,Evet,26-30 arası,Maltepe,2200000.0,,Kiracılı,Eşyasız
+4800656.0,2.0,1,60.0,70.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,Giriş Katı,,Evet,0,Maltepe,3350000.0,,Boş,Eşyasız
+4800636.0,3.0,1,95.0,110.0,1.0,7,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Hayır,21-25 arası,Maltepe,2795000.0,,Mülk Sahibi,Eşyasız
+4800629.0,3.0,1,100.0,115.0,1.0,5,250  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Hayır,11-15 arası,Maltepe,4825000.0,,Kiracılı,Eşyasız
+4800626.0,2.0,1,55.0,65.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,Giriş Katı,,Evet,6-10 arası,Maltepe,3750000.0,,Kiracılı,Eşyasız
+4695725.0,3.0,1,102.0,135.0,2.0,8,,,Kombi (Doğalgaz),7,Ara Kat,Evet,11-15 arası,Ümraniye,4900000.0,İkinci El,Kiracılı,
+4829483.0,2.0,1,88.0,110.0,1.0,5,650  TL  (aylık),27.500  TL  (aylık),Merkezi Sistem,5,En Üst Kat,Evet,40 ve üzeri,Şişli,8250000.0,İkinci El,Boş,Eşyasız
+4829084.0,4.0,1,150.0,180.0,3.0,5,,,Merkezi Sistem,Giriş Katı,Bahçe Katı,Evet,31-35 arası,Beşiktaş,49500000.0,İkinci El,Kiracılı,Eşyasız
+4829321.0,1.0,1,50.0,55.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),20 ve üzeri,Ara Kat,Hayır,4,Esenyurt,1950000.0,,Boş,Sadece Beyaz Eşya
+4829324.0,3.0,1,90.0,120.0,1.0,5,100  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,6-10 arası,Esenyurt,2095000.0,,Kiracılı,Eşyasız
+4809337.0,3.0,1,144.0,150.0,2.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Bahçe Katı,Evet,6-10 arası,Bakırköy,14927000.0,İkinci El,Mülk Sahibi,Eşyalı (Mobilyalı)
+4182097.0,3.0,1,114.0,139.0,2.0,10-20 arası,850  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),11,Ara Kat,Evet,6-10 arası,Kartal,6200000.0,İkinci El,Kiracılı,Eşyasız
+4801625.0,4.0,1,119.0,135.0,1.0,,650  TL  (aylık),,Kalorifer (Doğalgaz),4,Ara Kat,Evet,40 ve üzeri,Sarıyer,22000000.0,İkinci El,Boş,Eşyasız
+4419138.0,5.0,2,170.0,220.0,2.0,4,40  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),4,Çatı Dubleksi,Evet,6-10 arası,Eyüpsultan,3800000.0,İkinci El,Mülk Sahibi,Eşyasız
+4561814.0,2.0,1,110.0,120.0,1.0,6,,,Kombi (Doğalgaz),4,Ara Kat,Evet,6-10 arası,Esenyurt,1450000.0,İkinci El,Boş,Eşyasız
+,,,,,,,,,,,,,,Esenyurt,1850000.0,,,
+4561400.0,3.0,1,120.0,130.0,1.0,6,,,Kombi (Doğalgaz),2,Ara Kat,Evet,0,Kadıköy,7000000.0,Sıfır,Boş,Eşyasız
+4303369.0,3.0,1,93.0,120.0,1.0,6,550  TL  (aylık),0  TL  (aylık),Merkezi Sistem,3,Ara Kat,Evet,26-30 arası,Kadıköy,16000000.0,İkinci El,Boş,Eşyasız
+4829345.0,3.0,2,200.0,220.0,3.0,6,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),6,Çatı Dubleksi,Evet,11-15 arası,Esenyurt,1570000.0,,Kiracılı,Sadece Beyaz Eşya
+4766195.0,1.0,1,70.0,90.0,1.0,10-20 arası,0  TL  (aylık),8.000  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Evet,2,Esenyurt,1400000.0,Sıfır,Boş,Eşyasız
+4766505.0,1.0,1,65.0,75.0,1.0,20 ve üzeri,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Evet,6-10 arası,Esenyurt,1630000.0,Sıfır,Boş,Eşyasız
+4766455.0,2.0,1,90.0,105.0,1.0,10-20 arası,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Evet,2,Çekmeköy,5990000.0,Sıfır,Boş,Eşyasız
+4767084.0,4.0,1,130.0,155.0,2.0,3,0  TL  (aylık),0  TL  (aylık),Klima,3,Çatı Dubleksi,Evet,3,Kadıköy,7400000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4765349.0,4.0,1,185.0,200.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,16-20 arası,Üsküdar,12000000.0,,Kiracılı,Eşyasız
+4644597.0,4.0,1,170.0,210.0,3.0,6,0  TL  (aylık),0  TL  (aylık),,6,Ara Kat,Evet,4,Küçükçekmece,5100000.0,,Boş,Eşyasız
+4765448.0,2.0,1,95.0,146.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,10,Ara Kat,Evet,1,Başakşehir,4660000.0,,Kiracılı,Sadece Beyaz Eşya
+4765435.0,1.0,1,65.0,90.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,8,Ara Kat,Evet,6-10 arası,Bağcılar,5000000.0,,Kiracılı,Sadece Beyaz Eşya
+4765436.0,2.0,1,125.0,145.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,8,Ara Kat,Evet,6-10 arası,Kağıthane,5400000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4561699.0,1.0,1,65.0,90.0,2.0,10-20 arası,1.150  TL  (aylık),,Merkezi Sistem (Isı Payı Ölçer),11,Ara Kat,Evet,6-10 arası,Büyükçekmece,2350000.0,,Kiracılı,Sadece Beyaz Eşya
+4695358.0,2.0,1,100.0,110.0,1.0,4,100  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,21-25 arası,Kadıköy,11750000.0,,Mülk Sahibi,Eşyasız
+4765837.0,2.0,1,90.0,130.0,2.0,10,750  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),6,Ara Kat,Evet,4,Silivri,2250000.0,,Kiracılı,Eşyasız
+4516758.0,2.0,1,55.0,80.0,1.0,2,400  TL  (aylık),7.000  TL  (aylık),Klima,2,,Evet,31-35 arası,Kartal,2250000.0,İkinci El,Boş,Eşyalı (Mobilyalı)
+4801408.0,1.0,0 (Stüdyo),45.0,60.0,1.0,20 ve üzeri,1.920  TL  (aylık),10.000  TL  (aylık),Merkezi Sistem,8,Ara Kat,Evet,4,Fatih,13950000.0,İkinci El,Kiracılı,Sadece Mutfak
+4603240.0,4.0,1,220.0,245.0,1.0,4,100  TL  (aylık),27.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,36-40 arası,Esenyurt,4000000.0,İkinci El,Mülk Sahibi,Eşyasız
+4561890.0,3.0,1,120.0,140.0,2.0,6,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Kot 1,,Evet,6-10 arası,Beylikdüzü,1780000.0,,,Eşyasız
+4828823.0,3.0,1,120.0,140.0,1.0,5,,6.500  TL  (aylık),Kombi (Doğalgaz),1,Ters Dubleks,Evet,0,Esenyurt,2500000.0,Sıfır,Boş,Eşyasız
+4695509.0,3.0,1,95.0,140.0,2.0,20 ve üzeri,,,Merkezi Sistem (Isı Payı Ölçer),8,Ara Kat,Evet,6-10 arası,Bayrampaşa,14500000.0,,Boş,Eşyalı (Mobilyalı)
+4801235.0,4.0,2,210.0,230.0,2.0,5,150  TL  (aylık),0  TL  (aylık),Klima,5,Çatı Dubleksi,Evet,6-10 arası,Üsküdar,8500000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4732286.0,4.0,1,125.0,145.0,2.0,4,,25.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,0,Büyükçekmece,6500000.0,Sıfır,Boş,
+4766342.0,3.0,2,145.0,155.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),4,Ara Dubleks,Evet,1,Esenyurt,1596000.0,Sıfır,Boş,Eşyasız
+4672656.0,2.0,1,65.0,70.0,1.0,10-20 arası,,,Kombi (Doğalgaz),10,Ara Kat,Evet,4,Küçükçekmece,6500000.0,İkinci El,Boş,Eşyalı (Mobilyalı)
+4865138.0,6.0,2,180.0,240.0,2.0,5,100  TL  (aylık),25.000  TL  (aylık),Kombi (Doğalgaz),5,Dubleks,Evet,21-25 arası,Esenyurt,925000.0,İkinci El,Mülk Sahibi,Eşyasız
+4865897.0,1.0,0 (Stüdyo),40.0,60.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),9,Ara Kat,Evet,4,Esenyurt,2430000.0,,Boş,Eşyasız
+4467087.0,2.0,1,95.0,110.0,2.0,10,,,Merkezi Sistem,4,Ara Kat,Evet,0,Beşiktaş,2500000.0,Sıfır,Boş,Eşyasız
+4767096.0,2.0,1,65.0,80.0,1.0,4,,,,,Ara Kat,Hayır,,Esenyurt,1750000.0,İkinci El,Kiracılı,Eşyasız
+4697440.0,2.0,1,95.0,110.0,1.0,5,80  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,11-15 arası,Kadıköy,5800000.0,,Kiracılı,Eşyasız
+4829739.0,2.0,1,95.0,120.0,1.0,4,,9.000  TL  (aylık),Kalorifer (Doğalgaz),1,Ara Kat,Evet,31-35 arası,Esenyurt,1250000.0,İkinci El,Kiracılı,Sadece Mutfak
+4766223.0,1.0,1,60.0,70.0,1.0,10-20 arası,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,2,Esenyurt,1100000.0,Sıfır,Boş,Eşyasız
+4865952.0,1.0,1,60.0,75.0,1.0,10-20 arası,0  TL  (aylık),10.000  TL  (aylık),Merkezi Sistem,16,Ara Kat,Evet,6-10 arası,Kağıthane,6570000.0,Sıfır,Boş,Eşyasız
+4865352.0,3.0,1,150.0,170.0,2.0,3,,,Kombi (Doğalgaz),3,Çatı Dubleksi,Evet,4,Bahçelievler,2700000.0,Sıfır,Mülk Sahibi,Eşyasız
+4736106.0,,,150.0,210.0,,5,100  TL  (aylık),0  TL  (aylık),,5,,Evet,31-35 arası,Sarıyer,16000000.0,,Boş,
+4695827.0,3.0,1,125.0,182.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),10,Ara Kat,Evet,6-10 arası,Güngören,1750000.0,,Boş,Eşyasız
+4767933.0,2.0,1,100.0,110.0,1.0,5,,9.000  TL  (aylık),Kalorifer (Doğalgaz),4,,Hayır,26-30 arası,Zeytinburnu,2100000.0,Sıfır,Kiracılı,Eşyasız
+4830015.0,2.0,1,75.0,80.0,1.0,3,,12.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,21-25 arası,Esenyurt,1355000.0,İkinci El,Kiracılı,
+4766531.0,1.0,1,65.0,75.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,4,Ümraniye,3900000.0,Sıfır,Boş,Eşyasız
+4765696.0,3.0,1,89.0,115.0,2.0,5,0  TL  (aylık),0  TL  (aylık),,5,,Evet,0,Esenyurt,1780000.0,,Boş,Eşyasız
+4561682.0,1.0,1,62.0,90.0,1.0,10-20 arası,517  TL  (aylık),7.000  TL  (aylık),Klima,7,Ara Kat,Evet,6-10 arası,Esenyurt,1580000.0,,Kiracılı,Sadece Beyaz Eşya
+4865921.0,1.0,1,65.0,75.0,1.0,20 ve üzeri,0  TL  (aylık),13.000  TL  (aylık),Merkezi Sistem,1,Ara Kat,Evet,6-10 arası,Esenyurt,1990000.0,Sıfır,Boş,Eşyasız
+4865884.0,1.0,1,70.0,90.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,4,Sancaktepe,2000000.0,,Boş,Eşyasız
+4866473.0,2.0,1,90.0,110.0,1.0,4,,4.700  TL  (aylık),Kombi (Doğalgaz),,,Evet,,Sarıyer,16000000.0,,Kiracılı,
+4695874.0,3.0,1,137.0,178.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),10,Ara Kat,Hayır,6-10 arası,Maltepe,3500000.0,,Boş,Eşyasız
+4800621.0,1.0,1,47.0,60.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),5,En Üst Kat,Evet,6-10 arası,Beylikdüzü,3550000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4828790.0,2.0,1,110.0,115.0,1.0,5,0  TL  (aylık),14.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Esenler,1690000.0,Sıfır,Boş,Eşyasız
+4864238.0,2.0,1,75.0,85.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,Giriş Katı,,Evet,11-15 arası,Güngören,1680000.0,,Boş,Eşyasız
+4865565.0,3.0,1,105.0,110.0,1.0,4,50  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,,Evet,31-35 arası,Fatih,4750000.0,İkinci El,Kiracılı,Eşyasız
+4829366.0,3.0,1,120.0,125.0,1.0,4,100  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,21-25 arası,Sancaktepe,2750000.0,İkinci El,Boş,Eşyasız
+4866364.0,4.0,1,150.0,178.0,3.0,4,,,Kombi (Doğalgaz),3,,Evet,,Sarıyer,7600000.0,,,
+4695788.0,2.0,1,85.0,113.0,1.0,20+,0  TL  (aylık),0  TL  (aylık),Central System (Heat Share Meter),10,Intermediate Floor,Hayır,Between 11-15,Ataşehir,3995000.0,,Occupied By Tenant,Unfurnished
+4694291.0,3.0,1,125.0,135.0,1.0,8,300  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,21-25 arası,Sultanbeyli,2880000.0,,Boş,Eşyasız
+4634288.0,2.0,1,80.0,90.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,0,Beylikdüzü,2500000.0,Sıfır,Boş,Eşyasız
+4865526.0,1.0,1,70.0,86.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),,11,Ara Kat,Evet,6-10 arası,Avcılar,5650000.0,,Boş,Eşyasız
+4732090.0,4.0,1,170.0,202.0,2.0,10-20 arası,0  TL  (aylık),18.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),8,Ara Kat,Evet,5,Esenyurt,1300000.0,İkinci El,Mülk Sahibi,Eşyasız
+4695396.0,3.0,1,112.0,125.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Evet,6-10 arası,Avcılar,1050000.0,,Mülk Sahibi,Eşyalı (Mobilyalı)
+4865493.0,2.0,1,90.0,100.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Hayır,26-30 arası,Sancaktepe,2550000.0,İkinci El,Boş,Eşyasız
+4866312.0,2.0,1,115.0,120.0,2.0,9,,,Kombi (Doğalgaz),5,,Hayır,11-15 arası,Kağıthane,7500000.0,,,
+4865509.0,2.0,1,100.0,110.0,2.0,5,,,Kombi (Doğalgaz),3,Ara Kat,Evet,0,Beylikdüzü,2750000.0,Sıfır,Boş,Eşyasız
+4865480.0,3.0,1,145.0,150.0,2.0,8,350  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Evet,6-10 arası,Başakşehir,3799600.0,,Mülk Sahibi,Eşyasız
+4829803.0,1.0,1,52.0,68.0,1.0,,,,,,,Hayır,,Beylikdüzü,1575000.0,,,
+4865038.0,3.0,1,115.0,135.0,2.0,4,,,Kombi (Doğalgaz),3,Ara Kat,Evet,0,Esenyurt,3100000.0,Sıfır,Boş,Eşyasız
+4828627.0,2.0,1,100.0,125.0,2.0,6,0  TL  (aylık),18.000  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,6-10 arası,Silivri,2650000.0,Sıfır,Boş,Eşyasız
+4865276.0,4.0,1,150.0,165.0,2.0,6,150  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),6,Çatı Dubleksi,Evet,6-10 arası,Sancaktepe,4250000.0,İkinci El,Boş,Eşyasız
+4864990.0,1.0,1,64.0,74.0,1.0,10,,,Merkezi Sistem (Isı Payı Ölçer),3,Ara Kat,Evet,4,Esenyurt,1250000.0,İkinci El,Boş,Eşyasız
+4865211.0,1.0,1,75.0,85.0,1.0,4,,,Kombi (Doğalgaz),Yüksek Giriş,Giriş Kat,Evet,0,Esenler,2090000.0,Sıfır,Boş,Eşyasız
+4472155.0,3.0,1,105.0,115.0,1.0,6,80  TL  (aylık),7.000  TL  (aylık),Kombi (Doğalgaz),Kot 3,Ara Kat,Hayır,21-25 arası,Şişli,4500000.0,İkinci El,Kiracılı,Eşyasız
+4695833.0,1.0,0 (Stüdyo),38.0,54.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),8,Ara Kat,Hayır,2,Beyoğlu,5000000.0,,Kiracılı,Eşyasız
+4799072.0,1.0,1,95.0,115.0,1.0,5,200  TL  (aylık),25.000  TL  (aylık),Kombi (Doğalgaz),Kot 2,Ara Kat,Hayır,40 ve üzeri,Avcılar,2600000.0,Sıfır,Kiracılı,Eşyasız
+4680996.0,2.0,1,97.0,120.0,1.0,,,,Kombi (Doğalgaz),3,,Evet,21-25 arası,Esenler,1900000.0,İkinci El,Mülk Sahibi,Eşyasız
+4645913.0,3.0,1,120.0,125.0,1.0,5,,8.000  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Hayır,21-25 arası,Beşiktaş,31500000.0,İkinci El,Mülk Sahibi,Eşyasız
+3480953.0,3.0,1,180.0,200.0,2.0,3,0  TL  (aylık),25.000  TL  (aylık),Kombi (Doğalgaz),3,,Hayır,21-25 arası,Beylikdüzü,4500000.0,İkinci El,Boş,Eşyasız
+4828413.0,3.0,2,170.0,190.0,2.0,3,0  TL  (aylık),25.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,3,Büyükçekmece,2900000.0,Sıfır,Boş,Eşyasız
+4800759.0,3.0,1,150.0,165.0,2.0,10,0  TL  (aylık),15.000  TL  (aylık),Klima,5,Ara Kat,Evet,11-15 arası,Bağcılar,2750000.0,Sıfır,Boş,Eşyasız
+4865453.0,2.0,1,104.0,120.0,1.0,5,100  TL  (aylık),0  TL  (aylık),Klima,Giriş Katı,,Evet,16-20 arası,Fatih,2500000.0,,Mülk Sahibi,Eşyasız
+4865561.0,1.0,1,50.0,60.0,1.0,4,,12.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,40 ve üzeri,Kağıthane,7500000.0,İkinci El,Boş,Eşyasız
+4645709.0,2.0,1,95.0,116.0,1.0,10-20 arası,,35.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),4,Ara Kat,Evet,2,Esenyurt,1895000.0,İkinci El,Boş,Eşyasız
+4829312.0,2.0,1,70.0,120.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),,17,Ara Kat,Hayır,6-10 arası,Sultangazi,2600000.0,,Kiracılı,Eşyasız
+4865207.0,2.0,1,95.0,100.0,1.0,5,,,Kombi (Doğalgaz),2,Ara Kat,Evet,6-10 arası,Gaziosmanpaşa,4500000.0,,Kiracılı,Eşyasız
+4674556.0,2.0,1,85.0,112.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,0,Küçükçekmece,2800000.0,Sıfır,Boş,
+4866164.0,2.0,1,75.0,85.0,1.0,3,,11.000  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Giriş Kat,Evet,11-15 arası,Güngören,2550000.0,İkinci El,Boş,Eşyasız
+4865209.0,3.0,1,110.0,115.0,1.0,4,50  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,31-35 arası,Zeytinburnu,1600000.0,İkinci El,Boş,Eşyasız
+4646900.0,2.0,1,90.0,95.0,1.0,5,30  TL  (aylık),0  TL  (aylık),,5,,Hayır,26-30 arası,Beylikdüzü,4500000.0,,Kiracılı,Eşyasız
+4462292.0,4.0,1,200.0,220.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,2,Bağcılar,1800000.0,İkinci El,Boş,Eşyasız
+4864933.0,3.0,1,115.0,120.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Hayır,21-25 arası,Esenyurt,1515000.0,,Mülk Sahibi,Eşyalı (Mobilyalı)
+4829316.0,1.0,1,55.0,70.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),3,Ara Kat,Evet,6-10 arası,Beylikdüzü,9250000.0,,Kiracılı,Eşyalı (Mobilyalı)
+4800784.0,4.0,1,142.0,175.0,2.0,10-20 arası,,,Merkezi Sistem (Isı Payı Ölçer),10,Ara Kat,Evet,6-10 arası,Avcılar,10600000.0,Sıfır,Boş,Eşyasız
+4866232.0,4.0,1,220.0,260.0,3.0,20 ve üzeri,,,Merkezi Sistem (Isı Payı Ölçer),15,Ara Kat,Evet,4,Kağıthane,5300000.0,İkinci El,Kiracılı,Eşyasız
+4865636.0,3.0,1,135.0,160.0,1.0,3,,,Kombi (Doğalgaz),2,Çatı Dubleksi,Evet,6-10 arası,Başakşehir,5175000.0,İkinci El,Kiracılı,Eşyalı (Mobilyalı)
+4829676.0,3.0,1,174.0,175.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),Bahçe katı,,Hayır,4,Büyükçekmece,2150000.0,,Kiracılı,Eşyasız
+4828501.0,2.0,1,90.0,100.0,1.0,4,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Giriş Kat,Evet,21-25 arası,Sancaktepe,3290000.0,Sıfır,Boş,Eşyasız
+4864501.0,3.0,1,100.0,120.0,1.0,3,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),,,Evet,11-15 arası,Beylikdüzü,2450000.0,İkinci El,,Eşyasız
+4865345.0,1.0,1,65.0,75.0,1.0,9,400  TL  (aylık),0  TL  (aylık),,1,,Evet,6-10 arası,Sarıyer,18000000.0,,Mülk Sahibi,Eşyasız
+4823327.0,2.0,1,110.0,126.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,1,,Evet,31-35 arası,Avcılar,3050000.0,,Boş,Eşyasız
+4827705.0,3.0,1,125.0,135.0,1.0,3,50  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,16-20 arası,Avcılar,4050000.0,İkinci El,Mülk Sahibi,Eşyasız
+4827708.0,3.0,1,150.0,155.0,2.0,4,50  TL  (aylık),18.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,16-20 arası,Avcılar,1575000.0,İkinci El,Mülk Sahibi,Eşyasız
+4732061.0,2.0,1,115.0,120.0,1.0,4,40  TL  (aylık),7.500  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Ara Kat,Evet,21-25 arası,Sarıyer,3700000.0,İkinci El,Mülk Sahibi,Eşyasız
+4695829.0,1.0,0 (Stüdyo),50.0,60.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,12,Ara Kat,Evet,6-10 arası,Esenyurt,1350000.0,,Kiracılı,Eşyasız
+4828487.0,2.0,1,90.0,100.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Yüksek Giriş,,Evet,6-10 arası,Esenyurt,1785000.0,,Boş,Eşyasız
+4828455.0,2.0,1,105.0,115.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,6-10 arası,Maltepe,5100000.0,,Kiracılı,Eşyasız
+4828931.0,2.0,1,78.0,98.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),6,Ara Kat,Evet,6-10 arası,Tuzla,3250000.0,,Boş,Eşyasız
+4801656.0,2.0,1,72.0,107.0,1.0,10-20 arası,890  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),13,En Üst Kat,Evet,11-15 arası,Üsküdar,9000000.0,İkinci El,Boş,Eşyasız
+4644858.0,3.0,1,120.0,140.0,2.0,7,0  TL  (aylık),0  TL  (aylık),,6,Ara Kat,Evet,0,Beşiktaş,12900000.0,,Boş,Eşyasız
+4302619.0,4.0,1,150.0,160.0,2.0,8,0  TL  (aylık),0  TL  (aylık),Klima,8,,Evet,31-35 arası,Beylikdüzü,3350000.0,İkinci El,Boş,
+4865503.0,3.0,1,135.0,160.0,2.0,10-20 arası,420  TL  (aylık),,Merkezi Sistem (Isı Payı Ölçer),12,,Evet,11-15 arası,Esenyurt,2435000.0,,Mülk Sahibi,Eşyasız
+4587142.0,2.0,1,100.0,110.0,2.0,10,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,6-10 arası,Zeytinburnu,8000000.0,,Boş,Sadece Beyaz Eşya
+4401702.0,3.0,1,115.0,125.0,2.0,10-20 arası,350  TL  (aylık),9.000  TL  (aylık),Kombi (Doğalgaz),4,,Evet,16-20 arası,Avcılar,3950000.0,İkinci El,,Eşyasız
+4732089.0,3.0,1,115.0,133.0,2.0,10-20 arası,0  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,11-15 arası,Esenler,1650000.0,İkinci El,Kiracılı,Eşyasız
+4864241.0,2.0,1,80.0,90.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,4,Ara Kat,Hayır,26-30 arası,Beylikdüzü,3200000.0,,Boş,Eşyasız
+4865516.0,3.0,1,145.0,160.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),,7,Ara Kat,Evet,11-15 arası,Gaziosmanpaşa,2700000.0,,Mülk Sahibi,Eşyasız
+4695975.0,3.0,1,110.0,130.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,Zemin Kat,,Evet,0,Üsküdar,2550000.0,,Boş,Eşyasız
+4695986.0,2.0,1,80.0,85.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,1,,Evet,31-35 arası,Eyüpsultan,2150000.0,,Kiracılı,Eşyasız
+4695966.0,2.0,1,80.0,85.0,1.0,3,0  TL  (aylık),0  TL  (aylık),,1,,Evet,1,Eyüpsultan,2700000.0,,Kiracılı,Eşyasız
+4695983.0,2.0,1,85.0,95.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,Yüksek Giriş,,Evet,6-10 arası,Eyüpsultan,4700000.0,,Kiracılı,Eşyasız
+4695974.0,3.0,1,140.0,165.0,2.0,5,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,11-15 arası,Gaziosmanpaşa,2100000.0,,Mülk Sahibi,Eşyasız
+4695985.0,2.0,1,90.0,110.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Evet,0,Fatih,5150000.0,,Boş,Eşyasız
+4695982.0,3.0,1,110.0,130.0,1.0,3,0  TL  (aylık),0  TL  (aylık),,3,,Evet,31-35 arası,Beşiktaş,8950000.0,,Boş,Eşyasız
+4829273.0,2.0,1,105.0,130.0,1.0,6,2.000  TL  (aylık),35.000  TL  (aylık),Merkezi Sistem,6,En Üst Kat,Evet,40 ve üzeri,Sancaktepe,2200000.0,İkinci El,Kiracılı,Eşyasız
+4828165.0,2.0,1,110.0,120.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,Giriş Katı,,Evet,1,Eyüpsultan,2300000.0,,Kiracılı,Eşyasız
+4431726.0,3.0,2,185.0,190.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Hayır,21-25 arası,Eyüpsultan,2850000.0,,Mülk Sahibi,Eşyasız
+4696044.0,2.0,1,105.0,110.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,Giriş Katı,,Evet,26-30 arası,Bakırköy,2500000.0,,Kiracılı,Eşyasız
+4829319.0,2.0,1,87.0,97.0,1.0,4,,,Kalorifer (Doğalgaz),3,Ara Kat,Evet,40 ve üzeri,Maltepe,3100000.0,İkinci El,Kiracılı,Eşyasız
+4465116.0,3.0,1,125.0,135.0,2.0,5,40  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,,Evet,21-25 arası,Maltepe,8750000.0,,Kiracılı,Eşyasız
+4800664.0,4.0,1,190.0,210.0,2.0,7,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,21-25 arası,Pendik,2850000.0,,Kiracılı,Eşyasız
+4800670.0,3.0,1,115.0,130.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Hayır,21-25 arası,Pendik,2250000.0,,Boş,Eşyasız
+4800635.0,3.0,1,115.0,130.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Hayır,21-25 arası,Bağcılar,1100000.0,,Kiracılı,Eşyasız
+4754284.0,2.0,1,80.0,85.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,4,En Üst Kat,Hayır,26-30 arası,Başakşehir,6000000.0,,Kiracılı,Eşyasız
+4801486.0,3.0,1,110.0,167.0,2.0,10-20 arası,,,Merkezi Sistem (Isı Payı Ölçer),7,Ara Kat,Evet,1,Şişli,10000000.0,Sıfır,Kiracılı,
+4603669.0,1.0,1,111.0,129.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),16,Ara Kat,Evet,11-15 arası,Avcılar,1390000.0,İkinci El,Kiracılı,Eşyasız
+4829344.0,2.0,1,70.0,80.0,1.0,3,0  TL  (aylık),0  TL  (aylık),,Giriş Katı,,Evet,6-10 arası,Beyoğlu,3250000.0,,Boş,Eşyasız
+3567387.0,2.0,1,90.0,100.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,,Evet,16-20 arası,Büyükçekmece,3650000.0,,,Eşyasız
+4801018.0,4.0,1,135.0,160.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,,Evet,11-15 arası,Beylikdüzü,4000000.0,,,Eşyasız
+4644815.0,5.0,2,200.0,210.0,3.0,5,,13.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),Çatı Katı,Çatı Dubleksi,Hayır,6-10 arası,Beşiktaş,28000000.0,İkinci El,Boş,Eşyasız
+4828531.0,2.0,1,140.0,150.0,2.0,5,,,Merkezi Sistem,2,Ara Kat,Evet,26-30 arası,Ümraniye,3500000.0,İkinci El,Boş,
+4828167.0,2.0,1,80.0,92.0,2.0,6,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,1,,Evet,0,Sancaktepe,1850000.0,,Boş,Eşyasız
+4828174.0,2.0,1,80.0,85.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Evet,11-15 arası,Çekmeköy,4300000.0,,Mülk Sahibi,Eşyasız
+4828169.0,4.0,1,200.0,220.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,4,,Evet,0,Sancaktepe,4500000.0,,Boş,Eşyasız
+4828176.0,4.0,1,140.0,160.0,2.0,4,0  TL  (aylık),0  TL  (aylık),,4,,Evet,4,Çekmeköy,3300000.0,,Kiracılı,Eşyasız
+4828170.0,2.0,1,75.0,80.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,2,,Evet,0,Çekmeköy,1900000.0,,Boş,Eşyasız
+4828172.0,1.0,1,60.0,65.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,Bahçe katı,,Evet,0,Sancaktepe,3550000.0,,Boş,Eşyasız
+4828175.0,4.0,1,110.0,120.0,2.0,4,0  TL  (aylık),0  TL  (aylık),,4,,Evet,0,Sancaktepe,2650000.0,,Boş,Eşyasız
+4828166.0,2.0,1,100.0,110.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,1,,Evet,11-15 arası,Pendik,2200000.0,,Mülk Sahibi,Eşyasız
+4644700.0,2.0,1,70.0,90.0,1.0,4,,8.000  TL  (aylık),Kalorifer (Doğalgaz),Yüksek Giriş,Ters Dubleks,Hayır,2,Esenyurt,1410000.0,,Mülk Sahibi,
+4604039.0,2.0,1,95.0,100.0,1.0,5,,,Kombi (Doğalgaz),2,Ara Kat,Evet,6-10 arası,Beylikdüzü,785999.0,İkinci El,Boş,Eşyasız
+4603951.0,3.0,1,125.0,130.0,1.0,,50  TL  (aylık),5.000  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,6-10 arası,Esenyurt,1450000.0,Sıfır,Boş,Eşyasız
+4828495.0,2.0,1,80.0,90.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Yüksek Giriş,,Evet,0,Esenyurt,1599000.0,,Boş,Eşyasız
+4828483.0,2.0,1,80.0,90.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,4,Ara Kat,Evet,6-10 arası,Üsküdar,4850000.0,,Kiracılı,Eşyasız
+4822999.0,3.0,1,110.0,120.0,2.0,4,,25.000  TL  (aylık),Kombi (Doğalgaz),4,Çatı Dubleksi,Evet,0,Bayrampaşa,3900000.0,Sıfır,Boş,Eşyasız
+4695988.0,3.0,1,120.0,130.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,0,Esenyurt,1315000.0,,Boş,Eşyasız
+4464024.0,1.0,1,75.0,80.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,3,Ara Kat,Evet,6-10 arası,Avcılar,3850000.0,İkinci El,Kiracılı,Eşyasız
+4766561.0,2.0,1,72.0,80.0,1.0,5,,,Kombi (Doğalgaz),Yüksek Giriş,Giriş Kat,Evet,1,Esenler,2450000.0,İkinci El,Kiracılı,Eşyasız
+4829110.0,4.0,2,150.0,180.0,3.0,,,,,5,,Hayır,21-25 arası,Eyüpsultan,9500000.0,,,
+4419276.0,3.0,1,168.0,170.0,2.0,10-20 arası,,,,,,Evet,0,Esenyurt,1449000.0,Sıfır,Boş,Eşyasız
+4828463.0,2.0,1,90.0,100.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,6-10 arası,Beşiktaş,10500000.0,,Kiracılı,Eşyasız
+4467055.0,2.0,1,100.0,110.0,1.0,8,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),5,,Evet,31-35 arası,Beylikdüzü,2450000.0,,Kiracılı,Eşyasız
+4800953.0,2.0,1,95.0,110.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,6-10 arası,Gaziosmanpaşa,2000000.0,,Kiracılı,Eşyasız
+4695965.0,1.0,1,65.0,80.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,0,Sancaktepe,3395000.0,,Boş,Eşyasız
+4859476.0,2.0,1,100.0,120.0,1.0,5,0  TL  (aylık),20.000  TL  (aylık),Kombi (Doğalgaz),En Üst Kat,,Evet,6-10 arası,Esenler,3290000.0,,Boş,Eşyalı (Mobilyalı)
+4828846.0,3.0,1,110.0,115.0,2.0,3,100  TL  (aylık),4.500  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,5,Sancaktepe,2525000.0,İkinci El,Kiracılı,
+4828177.0,2.0,1,85.0,100.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,2,,Evet,4,Ataşehir,6680000.0,,Kiracılı,Eşyasız
+4864234.0,4.0,2,190.0,200.0,2.0,4,200  TL  (aylık),0  TL  (aylık),,4,,Evet,6-10 arası,Esenyurt,5988400.0,,Boş,Eşyasız
+4865108.0,3.0,1,145.0,175.0,2.0,10-20 arası,1.000  TL  (aylık),25.000  TL  (aylık),Merkezi Sistem,3,Ara Kat,Evet,6-10 arası,Şişli,28000000.0,İkinci El,Boş,Eşyasız
+4363121.0,2.0,1,119.0,130.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Evet,21-25 arası,Beşiktaş,30000000.0,,Boş,
+4864519.0,1.0,1,121.0,141.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,5,,Evet,6-10 arası,Şişli,52750000.0,,Boş,
+4864522.0,2.0,1,189.0,200.0,2.0,5,0  TL  (aylık),0  TL  (aylık),Klima,4,,Evet,4,Şişli,61000000.0,,Boş,
+4864524.0,3.0,1,180.0,197.0,2.0,7,0  TL  (aylık),0  TL  (aylık),Klima,2,,Evet,31-35 arası,Esenyurt,1919000.0,,Mülk Sahibi,
+4828477.0,2.0,1,90.0,100.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,0,Başakşehir,4800000.0,,Boş,Eşyasız
+4732146.0,3.0,1,136.0,164.0,2.0,20 ve üzeri,0  TL  (aylık),18.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),11,Ara Kat,Evet,5,Beylikdüzü,1650000.0,İkinci El,Kiracılı,Eşyasız
+4766102.0,1.0,1,50.0,60.0,1.0,4,0  TL  (aylık),6.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,,Evet,4,Eyüpsultan,1590000.0,Sıfır,Boş,Eşyasız
+4695977.0,2.0,1,68.0,95.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Evet,4,Sancaktepe,8000000.0,,Kiracılı,Eşyasız
+4695551.0,3.0,1,138.0,192.0,2.0,3,,,Merkezi Sistem (Isı Payı Ölçer),1,Ara Kat,Hayır,6-10 arası,Avcılar,11750000.0,,Boş,Eşyasız
+4865284.0,3.0,1,188.0,205.0,2.0,20 ve üzeri,,50.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),10,Ara Kat,Evet,4,Beylikdüzü,1366000.0,İkinci El,Boş,Eşyalı (Mobilyalı)
+4683934.0,2.0,1,100.0,120.0,1.0,6,,,Kombi (Doğalgaz),2,Ara Kat,Evet,0,Beylikdüzü,5275000.0,Sıfır,Boş,Eşyasız
+4865152.0,3.0,1,190.0,220.0,2.0,10-20 arası,,,Kombi (Doğalgaz),13,Ara Kat,Evet,16-20 arası,Ataşehir,4800000.0,,Mülk Sahibi,Eşyasız
+4864544.0,2.0,1,75.0,95.0,1.0,10,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,5,Ara Kat,Evet,2,Kartal,4500000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4864041.0,3.0,1,95.0,110.0,2.0,5,,,Kombi (Doğalgaz),2,Ara Kat,Evet,11-15 arası,Beyoğlu,4000000.0,İkinci El,Kiracılı,Eşyasız
+4065235.0,2.0,1,70.0,85.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Giriş Kat,Evet,26-30 arası,Ümraniye,10680000.0,,Boş,Eşyalı (Mobilyalı)
+4419327.0,2.0,1,109.0,110.0,0.0,10-20 arası,,,,,,Evet,0,Küçükçekmece,3160000.0,Sıfır,Boş,Eşyasız
+4419366.0,2.0,1,128.0,130.0,2.0,10-20 arası,,,,,,Evet,0,Ümraniye,3500000.0,Sıfır,Boş,Eşyasız
+4766612.0,1.0,1,50.0,75.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,9,Ara Kat,Evet,0,Sultanbeyli,2780000.0,,Kiracılı,Eşyasız
+4828171.0,2.0,1,80.0,85.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,1,,Evet,6-10 arası,Eyüpsultan,4750000.0,,Boş,Eşyasız
+4864392.0,2.0,1,75.0,100.0,1.0,10-20 arası,,,Merkezi Sistem (Isı Payı Ölçer),7,Ara Kat,Evet,0,Eyüpsultan,5800000.0,Yapım Aşamasında,Boş,Eşyasız
+4695978.0,5.0,2,280.0,290.0,2.0,3,0  TL  (aylık),0  TL  (aylık),,3,,Evet,11-15 arası,Maltepe,1625000.0,,Boş,Eşyasız
+4800620.0,1.0,1,35.0,40.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Soba (Doğalgaz),Müstakil,,Hayır,31-35 arası,Kartal,7900000.0,,Kiracılı,Eşyasız
+4863961.0,3.0,1,134.0,156.0,2.0,10-20 arası,,,Merkezi Sistem (Isı Payı Ölçer),9,Ara Kat,Evet,11-15 arası,Maltepe,6450000.0,İkinci El,Boş,Eşyasız
+4863942.0,4.0,1,130.0,165.0,2.0,4,180  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,,Evet,21-25 arası,Üsküdar,4750000.0,İkinci El,,Eşyasız
+4837905.0,2.0,1,53.0,61.0,1.0,3,200  TL  (aylık),12.000  TL  (aylık),Yerden Isıtma,Zemin Kat,,Evet,0,Maltepe,1700000.0,,Boş,
+4695486.0,1.0,0 (Stüdyo),30.0,45.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),4,Ara Kat,Hayır,6-10 arası,Beşiktaş,19000000.0,,Kiracılı,Eşyasız
+4363135.0,4.0,2,270.0,300.0,3.0,5,0  TL  (aylık),0  TL  (aylık),Klima,Bahçe katı,Bahçe Dubleksi,Evet,21-25 arası,Ümraniye,8000000.0,,Kiracılı,
+4829529.0,3.0,1,120.0,145.0,2.0,5,300  TL  (aylık),,Kombi (Doğalgaz),2,Ara Kat,Evet,6-10 arası,Esenyurt,4500000.0,İkinci El,Mülk Sahibi,
+4801230.0,3.0,1,135.0,171.0,2.0,10-20 arası,,,Merkezi Sistem (Isı Payı Ölçer),2,Ara Kat,Evet,6-10 arası,Fatih,1950000.0,İkinci El,Mülk Sahibi,
+4863827.0,3.0,1,73.0,95.0,1.0,3,80  TL  (aylık),,Kombi (Doğalgaz),1,Ara Kat,Evet,40 ve üzeri,Beylikdüzü,3345000.0,İkinci El,Kiracılı,Eşyasız
+4863822.0,2.0,1,115.0,130.0,2.0,5,,,Kombi (Doğalgaz),2,Ara Kat,Evet,0,Pendik,2250000.0,Sıfır,Boş,Eşyasız
+4697065.0,3.0,1,150.0,160.0,1.0,6,150  TL  (aylık),10.000  TL  (aylık),Kalorifer (Doğalgaz),Kot 2,,Hayır,21-25 arası,Esenler,2250000.0,İkinci El,Boş,
+4865623.0,2.0,1,80.0,85.0,1.0,6,50  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,11-15 arası,Şişli,12750000.0,Sıfır,Kiracılı,Eşyasız
+4363118.0,2.0,1,100.0,120.0,1.0,4,200  TL  (aylık),0  TL  (aylık),Klima,1,Ara Kat,Evet,21-25 arası,Eyüpsultan,1890000.0,,Boş,
+4695962.0,2.0,1,80.0,85.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,26-30 arası,Sancaktepe,3500000.0,,Mülk Sahibi,Eşyalı (Mobilyalı)
+4828162.0,3.0,1,105.0,115.0,2.0,5,0  TL  (aylık),0  TL  (aylık),,3,,Evet,0,Beylikdüzü,3750000.0,,Boş,Eşyasız
+4302894.0,3.0,1,135.0,155.0,2.0,4,0  TL  (aylık),70.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,11-15 arası,Esenyurt,3800000.0,İkinci El,Kiracılı,Eşyasız
+4801455.0,3.0,1,135.0,140.0,2.0,10,,,Kombi (Doğalgaz),2,,Evet,11-15 arası,Beylikdüzü,999000.0,İkinci El,,
+4603918.0,2.0,1,100.0,110.0,1.0,5,50  TL  (aylık),6.000  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Giriş Kat,Hayır,0,Kadıköy,10500000.0,Sıfır,Boş,Eşyasız
+4865376.0,3.0,1,110.0,145.0,1.0,10,1.000  TL  (aylık),0  TL  (aylık),Merkezi Sistem,En Üst Kat,,Evet,21-25 arası,Üsküdar,15750000.0,İkinci El,,Eşyasız
+4863736.0,4.0,2,210.0,250.0,3.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,Çatı Dubleksi,Evet,0,Bayrampaşa,2750000.0,Sıfır,Boş,Eşyasız
+4801590.0,2.0,1,95.0,100.0,1.0,5,,,Kombi (Doğalgaz),2,Ara Kat,Evet,0,Gaziosmanpaşa,1850000.0,Sıfır,Boş,Eşyasız
+4604342.0,1.0,1,60.0,75.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,,Evet,0,Zeytinburnu,7500000.0,,Boş,Eşyasız
+4644729.0,2.0,1,110.0,120.0,1.0,10-20 arası,,20.000  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Evet,5,Beylikdüzü,1400000.0,Sıfır,Mülk Sahibi,
+4604157.0,2.0,1,100.0,110.0,1.0,5,100  TL  (aylık),6.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Hayır,6-10 arası,Fatih,2450000.0,İkinci El,Boş,Eşyasız
+4865595.0,2.0,1,75.0,90.0,1.0,4,,,Kombi (Doğalgaz),2,Ara Kat,Evet,31-35 arası,Esenyurt,3900000.0,İkinci El,Kiracılı,
+4864213.0,3.0,1,115.0,140.0,2.0,5,1.200  TL  (aylık),18.000  TL  (aylık),Kalorifer (Doğalgaz),3,Ara Kat,Evet,11-15 arası,Küçükçekmece,8400000.0,İkinci El,Boş,Eşyasız
+4766695.0,3.0,1,119.0,174.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),Giriş Katı,Ara Kat,Evet,3,Çekmeköy,2160000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4863626.0,2.0,1,85.0,100.0,1.0,7,0  TL  (aylık),0  TL  (aylık),Klima,Bahçe katı,Ters Dubleks,Evet,0,Sancaktepe,1750000.0,,Boş,Sadece Beyaz Eşya
+4863622.0,2.0,1,85.0,100.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Klima,Bahçe katı,Ters Dubleks,Evet,0,Esenler,2250000.0,,Boş,Sadece Beyaz Eşya
+4863618.0,4.0,1,185.0,200.0,1.0,5,100  TL  (aylık),0  TL  (aylık),Klima,5,En Üst Kat,Hayır,26-30 arası,Pendik,16250000.0,,Boş,Eşyasız
+4863560.0,3.0,1,115.0,130.0,2.0,5,200  TL  (aylık),40.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),3,Ara Kat,Evet,0,Beylikdüzü,9000000.0,Sıfır,Boş,Eşyasız
+4863582.0,3.0,1,160.0,170.0,2.0,6,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Evet,11-15 arası,Esenyurt,949000.0,,Boş,Sadece Beyaz Eşya
+4863558.0,2.0,1,110.0,120.0,1.0,4,,12.000  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,0,Üsküdar,14950000.0,Sıfır,Boş,Eşyasız
+4837924.0,3.0,2,115.0,132.0,2.0,3,200  TL  (aylık),60.000  TL  (aylık),Yerden Isıtma,Teras Kat,,Evet,0,Kadıköy,10450000.0,Sıfır,Boş,Eşyasız
+4837919.0,3.0,1,95.0,125.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),9,,Evet,0,Kadıköy,9800000.0,Sıfır,Boş,Eşyasız
+4837890.0,3.0,1,100.0,120.0,2.0,10-20 arası,830  TL  (aylık),25.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),6,,Evet,6-10 arası,Eyüpsultan,1230000.0,İkinci El,Boş,Eşyasız
+4695973.0,1.0,1,65.0,70.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Yüksek Giriş,,Evet,31-35 arası,Fatih,8500000.0,,Kiracılı,Eşyasız
+4602712.0,3.0,1,60.0,80.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Zemin Kat,,Evet,4,Zeytinburnu,3100000.0,,,
+4828562.0,4.0,1,120.0,130.0,2.0,4,,17.500  TL  (aylık),Kombi (Doğalgaz),4,Dubleks,Evet,21-25 arası,Esenyurt,4900000.0,İkinci El,Kiracılı,
+4781341.0,2.0,1,120.0,125.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),,10,Ara Kat,Evet,4,Pendik,6300000.0,,Kiracılı,Eşyasız
+4863552.0,2.0,1,75.0,100.0,1.0,5,200  TL  (aylık),25  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),3,Ara Kat,Evet,0,Eyüpsultan,22000000.0,Sıfır,Boş,Eşyasız
+4761548.0,4.0,1,180.0,220.0,3.0,4,,,Kombi (Doğalgaz),Bahçe katı,Bahçe Dubleksi,Evet,16-20 arası,Esenler,1380000.0,İkinci El,Boş,Sadece Beyaz Eşya
+4865609.0,2.0,1,80.0,90.0,1.0,6,35  TL  (aylık),8.000  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Hayır,21-25 arası,Sultangazi,3870000.0,İkinci El,Kiracılı,Eşyasız
+4419379.0,3.0,1,125.0,126.0,2.0,10-20 arası,,,,,,Evet,0,Bayrampaşa,2000000.0,Sıfır,Boş,Eşyasız
+4828573.0,2.0,1,75.0,85.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,21-25 arası,Çekmeköy,2650000.0,,Mülk Sahibi,Eşyasız
+4863448.0,2.0,1,83.0,100.0,1.0,4,,15.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,0,Sancaktepe,2150000.0,Sıfır,Boş,Eşyasız
+4863439.0,3.0,1,100.0,120.0,1.0,3,,,Kombi (Doğalgaz),Yüksek Giriş,Ters Dubleks,Evet,0,Şişli,11000000.0,Sıfır,Boş,Eşyasız
+4597436.0,3.0,1,140.0,160.0,2.0,6,,,Merkezi Sistem,1,Ara Kat,Evet,40 ve üzeri,Kadıköy,6250000.0,İkinci El,Kiracılı,Eşyasız
+4863674.0,3.0,1,120.0,150.0,1.0,8,700  TL  (aylık),,Merkezi Sistem,Kot 3,Ara Kat,Evet,31-35 arası,Sarıyer,8000000.0,İkinci El,Mülk Sahibi,Eşyasız
+4863809.0,2.0,1,85.0,100.0,1.0,3,,,Kombi (Doğalgaz),3,En Üst Kat,Evet,36-40 arası,Üsküdar,12500000.0,İkinci El,Boş,Sadece Beyaz Eşya
+4837918.0,3.0,2,115.0,132.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,En Üst Kat,,Evet,0,Fatih,1725000.0,Sıfır,Boş,Eşyasız
+4695955.0,2.0,1,68.0,75.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Evet,31-35 arası,Bahçelievler,1750000.0,,Kiracılı,Eşyasız
+4603299.0,2.0,1,45.0,55.0,1.0,4,,5.500  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,0,Esenler,2250000.0,Sıfır,Kiracılı,Eşyasız
+4712740.0,2.0,1,88.0,105.0,1.0,5,50  TL  (aylık),0  TL  (aylık),,5,En Üst Kat,Evet,16-20 arası,Esenyurt,1379000.0,,Kiracılı,Eşyasız
+4863401.0,2.0,1,110.0,130.0,2.0,8,,,Kombi (Doğalgaz),2,Ara Kat,Evet,0,Şişli,12500000.0,Sıfır,Boş,Eşyasız
+4825268.0,2.0,1,115.0,140.0,2.0,,,,,,,Hayır,,Gaziosmanpaşa,2700000.0,,,
+4864953.0,2.0,1,90.0,100.0,2.0,4,50  TL  (aylık),0  TL  (aylık),,1,,Evet,16-20 arası,Esenyurt,1385000.0,,Mülk Sahibi,Eşyalı (Mobilyalı)
+4828579.0,2.0,1,70.0,80.0,1.0,3,0  TL  (aylık),0  TL  (aylık),,Giriş Katı,,Evet,6-10 arası,Ataşehir,8220000.0,,Kiracılı,Eşyasız
+4419282.0,2.0,1,145.0,146.0,1.0,10-20 arası,,,,,,Evet,0,Avcılar,7500000.0,Sıfır,Boş,Eşyasız
+4419312.0,3.0,1,177.0,180.0,2.0,10-20 arası,,,,,,Evet,0,Beylikdüzü,1455000.0,Sıfır,Boş,Eşyasız
+4863540.0,2.0,1,110.0,120.0,1.0,4,,12.000  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Giriş Kat,Evet,0,Beylikdüzü,6500000.0,,Boş,Eşyasız
+4274947.0,3.0,1,102.0,140.0,2.0,4,1.575  TL  (aylık),,Merkezi Sistem (Isı Payı Ölçer),Kot 3,Ara Kat,Evet,4,Gaziosmanpaşa,5750000.0,Sıfır,Boş,Sadece Mutfak
+4829530.0,1.0,1,64.0,78.0,1.0,10-20 arası,,,Kombi (Doğalgaz),8,Ara Kat,Evet,11-15 arası,Esenler,2100000.0,İkinci El,Kiracılı,
+4754338.0,2.0,1,78.0,85.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,5,En Üst Kat,Evet,6-10 arası,Büyükçekmece,4500000.0,,Mülk Sahibi,Eşyasız
+4732111.0,4.0,1,180.0,210.0,3.0,7,,15.000  TL  (aylık),Kalorifer (Doğalgaz),7,Dubleks,Evet,26-30 arası,Esenyurt,2888000.0,İkinci El,,Eşyasız
+4864905.0,2.0,1,160.0,170.0,2.0,6,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,4,Esenyurt,1100000.0,,Boş,Eşyasız
+4864943.0,1.0,1,70.0,80.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),,20 ve üzeri,Ara Kat,Evet,6-10 arası,Başakşehir,3595000.0,,Boş,Eşyalı (Mobilyalı)
+4865168.0,2.0,1,78.0,87.0,2.0,5,1  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),2,Ara Kat,Evet,0,Esenyurt,2250000.0,,Mülk Sahibi,Eşyasız
+4863623.0,2.0,1,120.0,125.0,1.0,4,,,Kombi (Doğalgaz),3,Ara Kat,Evet,2,Beylikdüzü,1499000.0,Sıfır,Boş,Eşyasız
+4863530.0,2.0,2,135.0,140.0,1.0,4,,15.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Dubleks,Evet,0,Esenyurt,1929000.0,Sıfır,Boş,Eşyasız
+4863715.0,2.0,1,85.0,95.0,2.0,4,,,Kombi (Doğalgaz),3,Ara Kat,Evet,0,Bağcılar,2700000.0,Sıfır,Boş,Eşyasız
+4760682.0,3.0,1,115.0,125.0,1.0,10,0  TL  (aylık),0  TL  (aylık),,1,,Evet,26-30 arası,Esenler,2150000.0,,Kiracılı,Eşyasız
+4785952.0,2.0,1,80.0,85.0,1.0,6,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,6-10 arası,Sancaktepe,2740000.0,,Kiracılı,Eşyasız
+4764332.0,3.0,1,105.0,115.0,1.0,6,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,6-10 arası,Kartal,4250000.0,,Kiracılı,Eşyasız
+4799544.0,3.0,1,122.0,140.0,2.0,7,100  TL  (aylık),0  TL  (aylık),Klima,Bahçe katı,Ters Dubleks,Evet,21-25 arası,Kartal,8500000.0,,Boş,Sadece Beyaz Eşya
+4693388.0,3.0,1,90.0,136.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,6,Ara Kat,Evet,4,Kağıthane,2500000.0,,Kiracılı,Eşyasız
+4644211.0,3.0,1,95.0,115.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Müstakil,,Evet,6-10 arası,Beylikdüzü,4250000.0,İkinci El,Boş,Eşyalı (Mobilyalı)
+4800268.0,3.0,1,140.0,170.0,3.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Evet,21-25 arası,Kartal,3750000.0,İkinci El,Boş,Sadece Mutfak
+4692829.0,3.0,1,130.0,145.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Klima,3,Ara Kat,Evet,31-35 arası,Esenler,12500000.0,,Boş,Eşyasız
+4383228.0,3.0,1,200.0,280.0,2.0,10,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),4,Ara Kat,Evet,4,Ataşehir,7850000.0,,Kiracılı,Eşyasız
+4799200.0,2.0,1,110.0,138.0,2.0,20 ve üzeri,1.650  TL  (aylık),25.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),3,Ara Kat,Evet,6-10 arası,Avcılar,8600000.0,İkinci El,Kiracılı,Eşyasız
+4602847.0,5.0,2,220.0,250.0,3.0,4,150  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Çatı Katı,Çatı Dubleksi,Evet,2,Eyüpsultan,12500000.0,,Boş,Eşyasız
+4764489.0,3.0,1,125.0,170.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,15,En Üst Kat,Evet,4,Eyüpsultan,12000000.0,,Kiracılı,Sadece Beyaz Eşya
+4764501.0,3.0,1,137.0,194.0,2.0,10-20 arası,0  TL  (aylık),35.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),8,Ara Kat,Evet,4,Eyüpsultan,10500000.0,,Kiracılı,Sadece Mutfak
+4764488.0,3.0,1,137.0,194.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),7,Ara Kat,Evet,4,Beylikdüzü,3750000.0,,Kiracılı,Sadece Beyaz Eşya
+4764371.0,3.0,1,120.0,135.0,2.0,4,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,0,Ümraniye,2690000.0,,Boş,Eşyasız
+4764336.0,2.0,1,75.0,90.0,1.0,5,30  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,3,Çekmeköy,3850000.0,,Kiracılı,Eşyasız
+4112006.0,3.0,1,108.0,145.0,1.0,4,35  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),4,Çatı Dubleksi,Evet,6-10 arası,Gaziosmanpaşa,3225000.0,,Kiracılı,Eşyasız
+4764086.0,2.0,1,90.0,120.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,6,Ara Kat,Evet,6-10 arası,Çekmeköy,2000000.0,,Kiracılı,Eşyasız
+4728785.0,2.0,1,85.0,92.0,1.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Çekmeköy,1950000.0,Sıfır,Boş,Eşyasız
+4728770.0,2.0,1,85.0,90.0,2.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Kadıköy,13500000.0,Sıfır,Boş,Eşyasız
+4863939.0,4.0,1,160.0,195.0,3.0,10-20 arası,0  TL  (aylık),40.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),3,,Evet,26-30 arası,Sultanbeyli,2400000.0,İkinci El,Boş,Eşyasız
+4728765.0,3.0,1,95.0,100.0,2.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,0,Sancaktepe,2200000.0,Sıfır,Boş,Eşyasız
+4461471.0,3.0,1,140.0,150.0,2.0,4,10  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),4,Ara Dubleks,Evet,0,Başakşehir,3830000.0,,Boş,Eşyasız
+4732088.0,3.0,1,115.0,136.0,2.0,10-20 arası,950  TL  (aylık),15.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),,Ara Kat,Evet,,Ataşehir,2900000.0,İkinci El,Mülk Sahibi,Eşyasız
+4765232.0,3.0,1,130.0,140.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,,Evet,16-20 arası,Çekmeköy,2000000.0,İkinci El,Mülk Sahibi,
+4728762.0,2.0,1,85.0,95.0,1.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Avcılar,2700000.0,Sıfır,Boş,Eşyasız
+4515110.0,4.0,2,180.0,200.0,2.0,5,,,Kombi (Doğalgaz),4,Çatı Dubleksi,Evet,0,Esenyurt,2100000.0,Sıfır,Boş,Eşyasız
+4560616.0,2.0,1,90.0,100.0,1.0,6,,,Kombi (Doğalgaz),2,Ara Kat,Evet,0,Sarıyer,35150000.0,Sıfır,Boş,Eşyasız
+4693727.0,4.0,1,149.0,203.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,2,Ara Kat,Evet,6-10 arası,Sarıyer,25010000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4693721.0,4.0,1,180.0,243.0,3.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,13,,Evet,6-10 arası,Sarıyer,25000000.0,,Boş,Sadece Beyaz Eşya
+4693750.0,4.0,1,180.0,243.0,3.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,13,En Üst Kat,Evet,6-10 arası,Sarıyer,11900000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4693716.0,3.0,1,130.0,184.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,7,,Evet,6-10 arası,Sarıyer,15450000.0,,Boş,Eşyalı (Mobilyalı)
+4693678.0,3.0,1,130.0,170.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,8,,Evet,6-10 arası,Sarıyer,5650000.0,,Boş,Eşyalı (Mobilyalı)
+4693650.0,1.0,1,65.0,94.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,Bahçe katı,,Evet,6-10 arası,Gaziosmanpaşa,7800000.0,,Boş,Sadece Beyaz Eşya
+4693702.0,3.0,1,120.0,156.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),14,Ara Kat,Evet,2,Sarıyer,28500000.0,,Mülk Sahibi,Eşyasız
+4693660.0,4.0,1,242.0,300.0,3.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,6,Ara Kat,Evet,6-10 arası,Esenyurt,1350000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4729090.0,1.0,0 (Stüdyo),45.0,60.0,1.0,20 ve üzeri,0  TL  (aylık),8.500  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),5,Ara Kat,Evet,4,Beylikdüzü,1850000.0,,Boş,Eşyalı (Mobilyalı)
+4799354.0,2.0,1,80.0,150.0,1.0,5,0  TL  (aylık),10.000  TL  (aylık),,Bahçe katı,Bahçe Katı,Evet,4,Esenyurt,1190000.0,Sıfır,Boş,Eşyasız
+4728795.0,1.0,1,70.0,90.0,1.0,20 ve üzeri,0  TL  (aylık),10.000  TL  (aylık),Merkezi Sistem,14,Ara Kat,Evet,4,Beylikdüzü,3850000.0,Sıfır,Boş,Eşyasız
+4667574.0,5.0,2,200.0,220.0,3.0,3,0  TL  (aylık),0  TL  (aylık),Kalorifer (Doğalgaz),Çatı Katı,Ara Kat,Evet,1,Esenyurt,1200000.0,Sıfır,Boş,Eşyasız
+4827917.0,1.0,1,65.0,80.0,1.0,8,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,6-10 arası,Esenyurt,2850000.0,Sıfır,Boş,Eşyasız
+4728985.0,3.0,1,140.0,160.0,1.0,10-20 arası,0  TL  (aylık),13.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),12,Ara Kat,Evet,4,Beylikdüzü,2870000.0,Sıfır,Boş,Eşyasız
+4448409.0,3.0,1,130.0,145.0,2.0,5,0  TL  (aylık),14.000  TL  (aylık),Kombi (Doğalgaz),2,,Evet,2,Beylikdüzü,3375000.0,Sıfır,Boş,Eşyasız
+4666738.0,3.0,1,140.0,160.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,4,Büyükçekmece,8150000.0,Sıfır,Boş,Eşyasız
+4726623.0,3.0,1,170.0,190.0,2.0,4,0  TL  (aylık),30.000  TL  (aylık),Kombi (Doğalgaz),Müstakil,Ara Kat,Evet,6-10 arası,Başakşehir,2250000.0,Sıfır,Boş,Eşyasız
+4726790.0,1.0,1,65.0,75.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,7,Ara Kat,Evet,2,Beylikdüzü,5950000.0,Sıfır,Boş,Eşyasız
+4668296.0,5.0,2,200.0,225.0,2.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,Çatı Dubleksi,Evet,0,Beylikdüzü,3800000.0,Sıfır,Boş,Eşyasız
+4726464.0,3.0,1,130.0,140.0,1.0,5,0  TL  (aylık),12.000  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,0,Beylikdüzü,1950000.0,Sıfır,Boş,Eşyalı (Mobilyalı)
+4725656.0,2.0,1,100.0,120.0,1.0,5,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,4,Beylikdüzü,2450000.0,Sıfır,Boş,Eşyasız
+4582218.0,2.0,1,90.0,105.0,2.0,5,0  TL  (aylık),8.500  TL  (aylık),Kombi (Doğalgaz),4,Ara Kat,Evet,4,Esenyurt,1750000.0,Sıfır,Boş,Sadece Beyaz Eşya
+4726806.0,1.0,1,65.0,75.0,1.0,20 ve üzeri,0  TL  (aylık),10.000  TL  (aylık),Merkezi Sistem,17,Ara Kat,Evet,4,Esenyurt,1300000.0,Sıfır,Boş,Sadece Beyaz Eşya
+4765098.0,1.0,1,65.0,75.0,1.0,20 ve üzeri,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),15,Ara Kat,Evet,6-10 arası,Büyükçekmece,14000000.0,Sıfır,Boş,Eşyasız
+4726717.0,6.0,2,250.0,300.0,4.0,4,0  TL  (aylık),60.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Dubleks,Evet,6-10 arası,Beylikdüzü,3300000.0,Sıfır,Boş,Eşyasız
+4658240.0,3.0,1,130.0,155.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,6-10 arası,Beylikdüzü,2890000.0,Sıfır,Boş,Eşyasız
+4764595.0,3.0,1,120.0,130.0,2.0,4,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,6-10 arası,Beylikdüzü,5200000.0,Sıfır,Boş,Eşyasız
+4765388.0,3.0,1,180.0,220.0,2.0,10,0  TL  (aylık),25.000  TL  (aylık),Kombi (Doğalgaz),6,Ara Kat,Hayır,6-10 arası,Beylikdüzü,2000000.0,Sıfır,Boş,Eşyasız
+4764922.0,2.0,1,100.0,125.0,1.0,10-20 arası,0  TL  (aylık),12.000  TL  (aylık),Kombi (Doğalgaz),10,Ara Kat,Evet,11-15 arası,Esenyurt,1450000.0,Sıfır,Boş,Eşyasız
+4726914.0,1.0,1,65.0,75.0,1.0,10-20 arası,0  TL  (aylık),8.000  TL  (aylık),Merkezi Sistem,7,Ara Kat,Evet,4,Beylikdüzü,4650000.0,Sıfır,Boş,Eşyasız
+4764665.0,3.0,1,140.0,155.0,2.0,4,0  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Esenyurt,1350000.0,Sıfır,Boş,Eşyasız
+4729424.0,1.0,1,65.0,85.0,1.0,10-20 arası,0  TL  (aylık),12.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),1,Ara Kat,Evet,4,Sancaktepe,2300000.0,Sıfır,Boş,Eşyasız
+4764338.0,3.0,1,125.0,140.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,4,Çatı Dubleksi,Evet,3,Sancaktepe,1950000.0,,Kiracılı,Eşyasız
+4728750.0,2.0,1,85.0,90.0,1.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,0,Sultanbeyli,2300000.0,Sıfır,Boş,Eşyasız
+4728744.0,3.0,1,95.0,100.0,1.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Çekmeköy,2070000.0,Sıfır,Boş,Eşyasız
+4764325.0,2.0,1,98.0,105.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Yüksek Giriş,Ara Kat,Evet,26-30 arası,Sancaktepe,3800000.0,,Boş,Eşyasız
+4764322.0,5.0,1,125.0,185.0,2.0,4,0  TL  (aylık),0  TL  (aylık),,4,Çatı Dubleksi,Evet,6-10 arası,Çekmeköy,5500000.0,,Mülk Sahibi,Eşyasız
+4515401.0,3.0,1,100.0,115.0,2.0,10,650  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),8,Ara Kat,Evet,1,Sancaktepe,1800000.0,,Kiracılı,Eşyasız
+4515408.0,3.0,1,90.0,105.0,1.0,3,60  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Bahçe Dubleksi,Evet,6-10 arası,Çekmeköy,1450000.0,,Mülk Sahibi,Eşyasız
+4515400.0,1.0,1,40.0,55.0,1.0,4,50  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,,Evet,6-10 arası,Çekmeköy,4800000.0,,Kiracılı,Eşyasız
+4799700.0,4.0,2,190.0,200.0,2.0,10,1.200  TL  (aylık),,Kombi (Doğalgaz),Yüksek Giriş,Dubleks,Evet,6-10 arası,Çekmeköy,4250000.0,İkinci El,Mülk Sahibi,Eşyasız
+4799623.0,3.0,1,145.0,165.0,2.0,10,1.200  TL  (aylık),,Kombi (Doğalgaz),3,Ara Kat,Evet,11-15 arası,Çekmeköy,6000000.0,İkinci El,Boş,Eşyasız
+4799732.0,5.0,2,200.0,215.0,2.0,5,,,Kombi (Doğalgaz),4,Dubleks,Evet,0,Çekmeköy,3090000.0,Sıfır,Boş,Eşyasız
+4799410.0,2.0,1,85.0,90.0,2.0,6,,,Kombi (Doğalgaz),3,Ara Kat,Evet,2,Çekmeköy,2200000.0,İkinci El,Mülk Sahibi,Eşyasız
+4728739.0,2.0,1,85.0,96.0,2.0,5,100  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Zeytinburnu,3050000.0,Sıfır,Boş,Eşyasız
+4800218.0,1.0,1,35.0,70.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,1,Ara Kat,Evet,4,Beyoğlu,7410000.0,,Kiracılı,Sadece Beyaz Eşya
+4800114.0,2.0,1,80.0,86.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Klima,2,Ara Kat,Evet,11-15 arası,Başakşehir,5100000.0,,Kiracılı,Eşyasız
+4800171.0,2.0,1,95.0,135.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),14,Ara Kat,Evet,4,Kadıköy,5350000.0,,Mülk Sahibi,Eşyasız
+4764079.0,2.0,1,65.0,85.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,8,Ara Kat,Evet,0,Kartal,7750200.0,,Boş,Sadece Beyaz Eşya
+4463594.0,3.0,1,160.0,180.0,2.0,10,350  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),10,En Üst Kat,Evet,21-25 arası,Fatih,7750000.0,,Boş,Eşyasız
+4602112.0,4.0,1,150.0,185.0,3.0,5,40  TL  (aylık),22.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,36-40 arası,Tuzla,5750000.0,İkinci El,Boş,Eşyasız
+4765058.0,3.0,1,110.0,130.0,2.0,6,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,3,Esenler,2500000.0,,Boş,Eşyasız
+4765248.0,1.0,0 (Stüdyo),75.0,85.0,1.0,6,,9.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,0,Ümraniye,3550000.0,Sıfır,Boş,
+4692963.0,,,80.0,95.0,,10-20 arası,600  TL  (aylık),0  TL  (aylık),Klima,5,,Evet,4,Büyükçekmece,7000000.0,,Boş,
+4764954.0,3.0,1,170.0,190.0,2.0,,1.000  TL  (aylık),15.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),4,Ara Kat,Evet,11-15 arası,Esenyurt,2750000.0,İkinci El,Boş,Eşyasız
+4799944.0,5.0,1,180.0,190.0,3.0,4,80  TL  (aylık),0  TL  (aylık),Yerden Isıtma,4,Çatı Dubleksi,Evet,6-10 arası,Sancaktepe,3400000.0,,Mülk Sahibi,Eşyasız
+4765662.0,3.0,1,90.0,120.0,1.0,5,100  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,6-10 arası,Beylikdüzü,3235000.0,,Boş,Eşyasız
+4827861.0,2.0,1,115.0,130.0,2.0,5,0  TL  (aylık),0  TL  (aylık),Klima,2,Ara Kat,Evet,0,Beylikdüzü,2900000.0,Sıfır,Boş,Eşyasız
+4462682.0,2.0,1,110.0,120.0,2.0,4,250  TL  (aylık),0  TL  (aylık),Klima,1,Ara Kat,Evet,0,Beylikdüzü,3250000.0,Sıfır,Boş,Sadece Beyaz Eşya
+4643795.0,3.0,2,250.0,275.0,2.0,4,320  TL  (aylık),0  TL  (aylık),Klima,3,Dubleks,Evet,0,Beylikdüzü,2950000.0,Sıfır,Boş,Eşyasız
+4644042.0,2.0,1,110.0,130.0,2.0,4,400  TL  (aylık),0  TL  (aylık),Klima,2,Ara Kat,Evet,0,Esenler,1860000.0,Sıfır,Boş,Eşyasız
+4864894.0,2.0,1,70.0,80.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,6-10 arası,Bağcılar,1530000.0,,Boş,Eşyasız
+4864919.0,3.0,1,130.0,135.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Giriş Katı,,Hayır,21-25 arası,Bağcılar,2075000.0,,Mülk Sahibi,Eşyasız
+4864930.0,3.0,1,120.0,130.0,1.0,8,0  TL  (aylık),0  TL  (aylık),,7,Ara Kat,Evet,21-25 arası,Maltepe,10540000.0,,Kiracılı,Eşyasız
+4419383.0,4.0,1,257.0,260.0,3.0,10-20 arası,,,,,,Evet,0,Kartal,1520000.0,Sıfır,Boş,Eşyasız
+4798770.0,2.0,1,85.0,100.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Klima,Bahçe katı,Ters Dubleks,Hayır,21-25 arası,Sarıyer,10285000.0,,Boş,Sadece Beyaz Eşya
+4693699.0,3.0,1,130.0,170.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,5,Ara Kat,Evet,6-10 arası,Sarıyer,29950000.0,,Kiracılı,Sadece Beyaz Eşya
+4693664.0,4.0,1,156.0,222.0,3.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,7,Ara Kat,Evet,6-10 arası,Sancaktepe,1925000.0,,Boş,Sadece Beyaz Eşya
+4865527.0,2.0,1,100.0,110.0,1.0,4,,,Kombi (Doğalgaz),Yüksek Giriş,,Evet,4,Çekmeköy,2500000.0,,,
+4515391.0,1.0,1,55.0,70.0,1.0,10,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),Giriş Katı,,Evet,2,Avcılar,1799000.0,,Kiracılı,Eşyasız
+4863613.0,2.0,1,80.0,95.0,1.0,3,,,Kombi (Doğalgaz),,Bahçe Katı,Evet,6-10 arası,Üsküdar,3600000.0,İkinci El,Mülk Sahibi,Eşyasız
+4837934.0,2.0,1,54.0,64.0,1.0,5,200  TL  (aylık),12.000  TL  (aylık),Kombi (Doğalgaz),Kot 1,,Evet,0,Başakşehir,6900000.0,Sıfır,Boş,Eşyasız
+4419267.0,2.0,1,96.0,98.0,1.0,10-20 arası,,,,,,Evet,0,Beylikdüzü,1685000.0,Sıfır,Boş,Eşyasız
+4604133.0,2.0,1,95.0,100.0,1.0,5,100  TL  (aylık),6.000  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Ara Kat,Hayır,0,Esenyurt,1585000.0,Sıfır,Boş,Eşyasız
+4799943.0,2.0,1,85.0,95.0,1.0,3,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,4,Esenyurt,1999000.0,,Boş,Eşyasız
+4864900.0,3.0,1,135.0,145.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,6-10 arası,Esenyurt,2950000.0,,Boş,Eşyasız
+4864931.0,3.0,1,120.0,130.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,4,Sultanbeyli,1475000.0,,Kiracılı,Eşyasız
+4865416.0,2.0,1,90.0,100.0,1.0,3,,,Soba (Doğalgaz),2,Ara Kat,Hayır,21-25 arası,Kadıköy,16850000.0,,Boş,Eşyasız
+4837937.0,4.0,1,150.0,190.0,2.0,10-20 arası,0  TL  (aylık),40.000  TL  (aylık),Kombi (Doğalgaz),11,,Evet,21-25 arası,Esenler,1225000.0,İkinci El,Boş,Eşyasız
+4828030.0,3.0,1,100.0,110.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Hayır,21-25 arası,Esenler,2450000.0,,Kiracılı,Eşyasız
+4864916.0,3.0,1,110.0,120.0,1.0,7,250  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,26-30 arası,Pendik,2480000000.0,,Kiracılı,Eşyasız
+4865047.0,2.0,1,100.0,115.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,,Evet,6-10 arası,Başakşehir,9250000.0,İkinci El,Mülk Sahibi,
+4799428.0,4.0,1,179.0,304.0,3.0,3,0  TL  (aylık),0  TL  (aylık),Klima,Müstakil,Tripleks,Evet,0,Esenler,2500000.0,Sıfır,Boş,Sadece Beyaz Eşya
+4827972.0,2.0,1,90.0,100.0,1.0,4,50  TL  (aylık),9.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Hayır,31-35 arası,Eyüpsultan,7000000.0,İkinci El,Boş,Eşyasız
+4764481.0,2.0,1,70.0,112.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),14,Ara Kat,Evet,4,Sarıyer,15250000.0,,Kiracılı,Sadece Beyaz Eşya
+4693675.0,4.0,1,165.0,210.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,3,,Evet,6-10 arası,Beylikdüzü,4550000.0,,Boş,Sadece Beyaz Eşya
+4765254.0,3.0,1,170.0,217.0,2.0,7,0  TL  (aylık),22.000  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,6-10 arası,Kadıköy,8250000.0,Sıfır,Boş,Eşyalı (Mobilyalı)
+4764077.0,3.0,1,100.0,130.0,1.0,10-20 arası,750  TL  (aylık),0  TL  (aylık),Merkezi Sistem,6,Ara Kat,Evet,31-35 arası,Şişli,8600000.0,,Mülk Sahibi,Eşyasız
+4765578.0,2.0,1,70.0,90.0,1.0,10,1.600  TL  (aylık),,Merkezi Sistem (Isı Payı Ölçer),2,Ara Kat,Evet,4,Kartal,4500000.0,Sıfır,Mülk Sahibi,
+4864532.0,3.0,1,110.0,120.0,2.0,5,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,6-10 arası,Beylikdüzü,1545000.0,,Boş,Eşyasız
+4863520.0,2.0,1,110.0,120.0,1.0,4,,12.000  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Giriş Kat,Evet,0,Pendik,1700000.0,Sıfır,Boş,Eşyasız
+4460159.0,2.0,1,88.0,100.0,1.0,5,100  TL  (aylık),,Kombi (Doğalgaz),2,Ara Kat,Evet,16-20 arası,Sarıyer,32300000.0,İkinci El,Kiracılı,Eşyasız
+4693693.0,5.0,1,220.0,330.0,3.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,6,Ara Kat,Evet,6-10 arası,Güngören,2400000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4764917.0,2.0,1,89.0,90.0,1.0,4,,9.000  TL  (aylık),Kalorifer (Doğalgaz),3,Ara Kat,Evet,26-30 arası,Çekmeköy,1725000.0,İkinci El,Mülk Sahibi,Eşyasız
+4865197.0,1.0,1,70.0,80.0,1.0,,,,,,,Hayır,,Esenyurt,2100000.0,,,
+4799935.0,3.0,2,170.0,180.0,2.0,3,50  TL  (aylık),0  TL  (aylık),,3,Çatı Dubleksi,Evet,6-10 arası,Beylikdüzü,2600000.0,,Mülk Sahibi,Eşyasız
+4862994.0,2.0,1,105.0,115.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,2,Sarıyer,18400000.0,,Boş,Eşyasız
+4693656.0,3.0,1,130.0,183.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,8,Ara Kat,Evet,6-10 arası,Zeytinburnu,32250000.0,,Kiracılı,Sadece Beyaz Eşya
+4764074.0,3.0,1,133.0,175.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,5,Ara Kat,Evet,3,Sarıyer,15750000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4693763.0,3.0,1,135.0,183.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,2,Ara Kat,Evet,6-10 arası,Eyüpsultan,3200000.0,,Boş,Sadece Beyaz Eşya
+4431701.0,2.0,1,160.0,175.0,1.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Hayır,31-35 arası,Esenyurt,1199000.0,,Mülk Sahibi,Eşyasız
+4828468.0,1.0,1,70.0,80.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Yüksek Giriş,,Evet,6-10 arası,Beylikdüzü,21200000.0,,Kiracılı,Eşyasız
+4603475.0,4.0,1,240.0,330.0,2.0,5,,,Kombi (Doğalgaz),1,,Evet,0,Beylikdüzü,37050000.0,Yapım Aşamasında,Boş,Eşyasız
+4603534.0,5.0,2,315.0,400.0,3.0,5,,,Kombi (Doğalgaz),1,,Evet,0,Kartal,3300000.0,Yapım Aşamasında,Boş,Eşyasız
+4863728.0,2.0,1,75.0,90.0,1.0,4,200  TL  (aylık),,Kombi (Doğalgaz),2,Ara Kat,Evet,2,Gaziosmanpaşa,2900000.0,İkinci El,Boş,Eşyasız
+4801596.0,4.0,1,190.0,200.0,2.0,2,100  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,16-20 arası,Zeytinburnu,3000000.0,İkinci El,Mülk Sahibi,Eşyasız
+4865308.0,2.0,1,90.0,95.0,1.0,4,,,Kombi (Doğalgaz),1,Ara Kat,Evet,26-30 arası,Sarıyer,15500000.0,İkinci El,Kiracılı,Eşyasız
+4693742.0,3.0,1,120.0,170.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,3,Ara Kat,Evet,6-10 arası,Esenyurt,1485000.0,,Boş,Sadece Beyaz Eşya
+4764952.0,1.0,1,65.0,75.0,1.0,10,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,4,Esenyurt,1400000.0,Sıfır,Boş,Eşyasız
+4799486.0,1.0,1,50.0,60.0,1.0,9,,10.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,5,Sarıyer,15690000.0,Sıfır,Boş,Eşyasız
+4693800.0,4.0,1,190.0,255.0,3.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Fancoil,14,,Evet,11-15 arası,Avcılar,4850000.0,,Kiracılı,Sadece Beyaz Eşya
+4863820.0,4.0,1,180.0,200.0,2.0,5,,,Kombi (Doğalgaz),5,Çatı Dubleksi,Evet,21-25 arası,Kadıköy,17500000.0,İkinci El,Mülk Sahibi,Eşyasız
+4837923.0,4.0,1,160.0,200.0,2.0,10-20 arası,0  TL  (aylık),60.000  TL  (aylık),Merkezi Sistem,12,,Evet,26-30 arası,Şişli,7500000.0,İkinci El,Boş,Eşyasız
+4864520.0,3.0,1,150.0,160.0,2.0,5,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),Giriş Katı,,Evet,26-30 arası,Ataşehir,10750000.0,,Boş,
+4419462.0,2.0,1,107.0,110.0,2.0,10-20 arası,,,,,,Evet,0,Beylikdüzü,3049000.0,Sıfır,Boş,Eşyasız
+4862992.0,2.0,1,115.0,120.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Ümraniye,3245000.0,Sıfır,Boş,Eşyasız
+4800371.0,3.0,1,80.0,100.0,1.0,9,0  TL  (aylık),20.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Giriş Kat,Evet,16-20 arası,Sarıyer,13800000.0,İkinci El,Boş,Eşyasız
+4693769.0,2.0,1,115.0,146.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,9,Ara Kat,Evet,6-10 arası,Sarıyer,6975000.0,,Kiracılı,Sadece Beyaz Eşya
+4693668.0,1.0,1,50.0,85.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,13,Ara Kat,Evet,6-10 arası,Beylikdüzü,3450000.0,,Kiracılı,Sadece Beyaz Eşya
+4827986.0,2.0,1,95.0,100.0,1.0,5,,,Kombi (Doğalgaz),1,Ara Kat,Hayır,0,Şişli,6300000.0,Sıfır,Boş,Eşyasız
+4765317.0,3.0,1,100.0,120.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,16-20 arası,Bahçelievler,1745000.0,,Mülk Sahibi,Eşyasız
+4864150.0,2.0,1,80.0,85.0,1.0,5,50  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Giriş Kat,Evet,16-20 arası,Bahçelievler,13500000.0,İkinci El,Mülk Sahibi,Eşyasız
+4863751.0,4.0,2,190.0,230.0,2.0,4,750  TL  (aylık),40.000  TL  (aylık),Kombi (Doğalgaz),4,,Evet,16-20 arası,Ümraniye,2920000.0,İkinci El,Mülk Sahibi,Eşyasız
+4863748.0,3.0,1,125.0,135.0,1.0,3,,16.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Dubleks,Evet,6-10 arası,Sancaktepe,10750000.0,İkinci El,Boş,
+4863375.0,5.0,1,230.0,300.0,2.0,4,,,Kombi (Doğalgaz),4,Teras Katı,Evet,6-10 arası,Üsküdar,4450000.0,İkinci El,Kiracılı,Eşyasız
+4837912.0,3.0,1,110.0,130.0,2.0,4,100  TL  (aylık),20.000  TL  (aylık),Kombi (Doğalgaz),2,,Evet,31-35 arası,Kadıköy,6350000.0,İkinci El,,Eşyasız
+4837930.0,3.0,1,90.0,120.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,2,,Evet,31-35 arası,Küçükçekmece,4900000.0,İkinci El,Boş,Eşyasız
+4837910.0,5.0,1,110.0,130.0,2.0,4,0  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),4,,Evet,0,Kadıköy,11950000.0,Sıfır,Boş,Eşyasız
+4863923.0,3.0,1,110.0,130.0,2.0,9,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),,,Evet,0,Küçükçekmece,3050000.0,Sıfır,Boş,Eşyasız
+4837885.0,2.0,1,76.0,84.0,1.0,4,0  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),3,,Hayır,0,Sarıyer,24200000.0,Sıfır,Boş,Eşyasız
+4693725.0,4.0,1,165.0,220.0,3.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,10,Ara Kat,Evet,6-10 arası,Sarıyer,15900000.0,,Boş,Sadece Beyaz Eşya
+4693703.0,3.0,1,135.0,184.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,3,Ara Kat,Evet,6-10 arası,Esenler,2300000.0,,Boş,Sadece Beyaz Eşya
+4864914.0,2.0,1,65.0,78.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,1,,Evet,0,Güngören,2999999.0,,Boş,Eşyasız
+4644734.0,4.0,1,210.0,240.0,2.0,,,,,,,Hayır,,Avcılar,3750000.0,,,
+4829077.0,2.0,1,115.0,116.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),1,,Hayır,6-10 arası,Fatih,1300000.0,,Kiracılı,Eşyasız
+4801543.0,2.0,1,70.0,80.0,1.0,7,50  TL  (aylık),8.000  TL  (aylık),Kombi (Doğalgaz),Bodrum Kat,,Evet,21-25 arası,Sancaktepe,4250000.0,İkinci El,Boş,Eşyasız
+4863697.0,4.0,1,130.0,140.0,1.0,3,,15.000  TL  (aylık),Kombi (Doğalgaz),3,Dubleks,Evet,0,Sarıyer,7496000.0,Sıfır,Boş,Eşyasız
+4693683.0,2.0,1,80.0,110.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),7,,Evet,11-15 arası,Beylikdüzü,3250000.0,,Kiracılı,Sadece Beyaz Eşya
+4827952.0,3.0,1,115.0,125.0,2.0,4,0  TL  (aylık),15.000  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,0,Beylikdüzü,3800000.0,Sıfır,Boş,Eşyasız
+4638461.0,3.0,1,120.0,140.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,,Hayır,26-30 arası,Sarıyer,12850000.0,İkinci El,Mülk Sahibi,
+4693718.0,2.0,1,115.0,156.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,3,Ara Kat,Evet,4,Esenyurt,980000.0,,Boş,Sadece Beyaz Eşya
+4864907.0,2.0,1,90.0,100.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Evet,6-10 arası,Avcılar,3500000.0,,Kiracılı,Eşyasız
+4327512.0,4.0,2,175.0,185.0,2.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,11-15 arası,Avcılar,1590000.0,İkinci El,Kiracılı,Eşyasız
+4797482.0,2.0,1,80.0,90.0,1.0,2,0  TL  (aylık),0  TL  (aylık),,Yüksek Giriş,,Evet,6-10 arası,Sultanbeyli,3750000.0,,Kiracılı,Eşyasız
+4863382.0,3.0,1,110.0,120.0,2.0,5,,15.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,0,Başakşehir,6300000.0,Sıfır,Boş,Sadece Mutfak
+4800056.0,4.0,1,130.0,151.0,2.0,8,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,,Evet,16-20 arası,Beylikdüzü,3775000.0,İkinci El,Kiracılı,
+4827907.0,3.0,1,108.0,125.0,2.0,10-20 arası,0  TL  (aylık),14.000  TL  (aylık),Kombi (Doğalgaz),11,Ara Kat,Evet,11-15 arası,Ataşehir,8000000.0,Sıfır,Boş,Eşyasız
+4692886.0,3.0,1,98.0,128.0,2.0,9,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,2,Ara Kat,Evet,26-30 arası,Sarıyer,15495000.0,,Mülk Sahibi,Eşyasız
+4693726.0,3.0,1,130.0,184.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,4,,Evet,6-10 arası,Sarıyer,7125000.0,,Boş,Sadece Beyaz Eşya
+4693738.0,1.0,1,55.0,85.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,13,Ara Kat,Evet,6-10 arası,Beylikdüzü,2545000.0,,Boş,Sadece Beyaz Eşya
+4799697.0,2.0,1,95.0,110.0,1.0,10-20 arası,545  TL  (aylık),0  TL  (aylık),,7,Ara Kat,Evet,16-20 arası,Pendik,6350000.0,,Mülk Sahibi,Eşyasız
+4463593.0,4.0,1,200.0,220.0,2.0,6,100  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),5,Ara Kat,Evet,16-20 arası,Esenyurt,2500000.0,,Mülk Sahibi,Eşyasız
+4803447.0,3.0,1,140.0,150.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,6-10 arası,Sancaktepe,3900000.0,,Kiracılı,Eşyasız
+4863366.0,1.0,1,64.0,74.0,1.0,10,,,Merkezi Sistem (Isı Payı Ölçer),4,Ara Kat,Evet,2,Sarıyer,8500000.0,İkinci El,Kiracılı,Eşyasız
+4693657.0,1.0,1,55.0,80.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,3,Ara Kat,Evet,6-10 arası,Esenyurt,1700000.0,,Boş,Sadece Beyaz Eşya
+4827933.0,1.0,1,80.0,85.0,1.0,20 ve üzeri,0  TL  (aylık),15.000  TL  (aylık),Klima,13,Ara Kat,Evet,6-10 arası,Büyükçekmece,3850000.0,Sıfır,Boş,Eşyasız
+4827963.0,2.0,1,150.0,180.0,3.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,6-10 arası,Sarıyer,6150000.0,Sıfır,Boş,Eşyasız
+4693768.0,1.0,1,55.0,75.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Yerden Isıtma,2,,Evet,4,Sarıyer,18700000.0,,Boş,Sadece Beyaz Eşya
+4693751.0,3.0,1,131.0,266.0,2.0,9,0  TL  (aylık),0  TL  (aylık),Klima,9,En Üst Kat,Evet,0,Üsküdar,2300000.0,,Boş,Sadece Beyaz Eşya
+4799183.0,2.0,1,80.0,100.0,1.0,,,,,,,Hayır,,Sarıyer,6000000.0,,,
+4693810.0,1.0,1,54.0,68.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,7,Ara Kat,Evet,6-10 arası,Sarıyer,14000000.0,,Boş,Sadece Beyaz Eşya
+4693723.0,3.0,1,130.0,180.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),6,,Evet,2,Sarıyer,13750000.0,,Boş,Sadece Beyaz Eşya
+4693689.0,2.0,1,98.0,130.0,2.0,9,0  TL  (aylık),0  TL  (aylık),Klima,5,Ara Kat,Evet,3,Çekmeköy,25000000.0,,Boş,Sadece Beyaz Eşya
+4837909.0,4.0,1,180.0,280.0,3.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),4,,Evet,0,Gaziosmanpaşa,2500000.0,Sıfır,Boş,Eşyasız
+4644194.0,2.0,1,100.0,115.0,1.0,6,80  TL  (aylık),,Kombi (Doğalgaz),4,Ara Kat,Evet,21-25 arası,Sultanbeyli,2800000.0,İkinci El,Boş,Eşyasız
+4863357.0,1.0,1,56.0,66.0,1.0,10,,,Merkezi Sistem (Isı Payı Ölçer),,Ara Kat,Evet,6-10 arası,Pendik,3300000.0,İkinci El,Kiracılı,Eşyasız
+4863639.0,2.0,1,75.0,95.0,2.0,9,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),2,,Evet,6-10 arası,Esenyurt,825000.0,İkinci El,Mülk Sahibi,
+4514966.0,2.0,1,80.0,90.0,1.0,6,,,Kombi (Doğalgaz),Bahçe katı,Bahçe Katı,Evet,6-10 arası,Sarıyer,15470000.0,İkinci El,Mülk Sahibi,Eşyasız
+4693774.0,3.0,1,122.0,168.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,5,Ara Kat,Evet,6-10 arası,Sarıyer,15000000.0,,Boş,Sadece Beyaz Eşya
+4693653.0,3.0,1,120.0,177.0,2.0,10,0  TL  (aylık),0  TL  (aylık),Klima,6,Ara Kat,Evet,3,Sarıyer,13490000.0,,Kiracılı,Sadece Beyaz Eşya
+4693719.0,2.0,1,115.0,146.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,10,Ara Kat,Evet,6-10 arası,Kağıthane,12900000.0,,Kiracılı,Sadece Beyaz Eşya
+4693706.0,2.0,1,91.0,130.0,2.0,9,0  TL  (aylık),0  TL  (aylık),Klima,8,Ara Kat,Evet,0,Sarıyer,15790000.0,,Boş,Sadece Beyaz Eşya
+4693714.0,3.0,1,123.0,183.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,3,Ara Kat,Evet,6-10 arası,Pendik,2450000.0,,Boş,Sadece Beyaz Eşya
+4463590.0,3.0,1,120.0,130.0,1.0,6,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Hayır,16-20 arası,Esenyurt,1750000.0,,Mülk Sahibi,Eşyasız
+4864891.0,2.0,1,130.0,140.0,1.0,6,0  TL  (aylık),0  TL  (aylık),,4,,Evet,6-10 arası,Esenyurt,1450000.0,,Kiracılı,Eşyasız
+4864910.0,2.0,1,90.0,100.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,4,Ara Kat,Evet,4,Eyüpsultan,4250000.0,,Kiracılı,Eşyasız
+4863306.0,4.0,2,140.0,150.0,2.0,5,50  TL  (aylık),24.000  TL  (aylık),Kombi (Doğalgaz),Giriş Katı,Ters Dubleks,Evet,11-15 arası,Beşiktaş,15500000.0,İkinci El,Mülk Sahibi,Eşyasız
+4559052.0,4.0,1,135.0,150.0,2.0,4,,,Merkezi Sistem,Yüksek Giriş,Giriş Kat,Evet,40 ve üzeri,Beşiktaş,6150000.0,İkinci El,Boş,Sadece Beyaz Eşya
+4456432.0,2.0,1,80.0,100.0,1.0,4,750  TL  (aylık),,Merkezi Sistem,4,En Üst Kat,Evet,31-35 arası,Bağcılar,930000.0,İkinci El,Boş,Eşyasız
+4864892.0,2.0,1,85.0,88.0,1.0,5,60  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Hayır,21-25 arası,Şişli,2900000.0,,Kiracılı,Eşyasız
+4757847.0,2.0,1,70.0,90.0,1.0,6,50  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Hayır,31-35 arası,Zeytinburnu,11500000.0,,Boş,Sadece Beyaz Eşya
+4514331.0,3.0,1,125.0,150.0,2.0,10-20 arası,4.000  TL  (aylık),15.000  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),8,Ara Kat,Evet,6-10 arası,Sarıyer,5250000.0,İkinci El,Mülk Sahibi,Eşyasız
+4693687.0,1.0,1,65.0,85.0,1.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,5,Ara Kat,Evet,11-15 arası,Büyükçekmece,2150000.0,,Kiracılı,Sadece Beyaz Eşya
+4799309.0,2.0,1,85.0,95.0,1.0,3,,10.000  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Giriş Kat,Evet,21-25 arası,Ataşehir,2400000.0,Sıfır,Boş,Eşyasız
+4764084.0,2.0,1,80.0,85.0,1.0,5,50  TL  (aylık),0  TL  (aylık),,,Ara Kat,Evet,6-10 arası,Sarıyer,7850000.0,,Boş,Eşyasız
+4693648.0,1.0,1,55.0,80.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,12,Ara Kat,Evet,4,Esenyurt,1540000.0,,Boş,Sadece Beyaz Eşya
+4864949.0,2.0,1,150.0,155.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,0,Kadıköy,7500000.0,,Boş,Eşyasız
+4863320.0,4.0,1,120.0,130.0,1.0,9,1.200  TL  (aylık),30.000  TL  (aylık),Merkezi Sistem,3,Ara Kat,Hayır,31-35 arası,Esenyurt,1850000.0,,Mülk Sahibi,Sadece Beyaz Eşya
+4814079.0,2.0,1,112.0,120.0,1.0,10-20 arası,,15.000  TL  (aylık),Kombi (Doğalgaz),8,Ara Kat,Evet,5,Beylikdüzü,2900000.0,Sıfır,Kiracılı,Eşyasız
+4461292.0,3.0,1,110.0,135.0,1.0,9,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),6,Ara Kat,Evet,16-20 arası,Eyüpsultan,8250000.0,İkinci El,Boş,Eşyasız
+4764478.0,3.0,1,120.0,168.0,2.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),15,En Üst Kat,Hayır,4,Kadıköy,5200000.0,,Kiracılı,Sadece Beyaz Eşya
+4401924.0,2.0,1,80.0,105.0,1.0,8,0  TL  (aylık),0  TL  (aylık),Klima,5,Ara Kat,Evet,6-10 arası,Esenyurt,1075000.0,,Boş,Eşyasız
+4644472.0,1.0,1,75.0,95.0,2.0,5,20  TL  (aylık),5.000  TL  (aylık),Kombi (Doğalgaz),Bahçe katı,,Evet,5,Sarıyer,9500000.0,İkinci El,,Eşyasız
+4693666.0,2.0,1,90.0,115.0,2.0,20 ve üzeri,0  TL  (aylık),0  TL  (aylık),Klima,8,Ara Kat,Evet,6-10 arası,Başakşehir,4150000.0,,Boş,Sadece Beyaz Eşya
+4865236.0,1.0,1,55.0,75.0,1.0,4,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,11-15 arası,Beyoğlu,4500000.0,,Mülk Sahibi,Eşyalı (Mobilyalı)
+4693543.0,2.0,1,70.0,82.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Çatı Katı,,Evet,31-35 arası,Sarıyer,7250000.0,,Boş,Eşyasız
+4693701.0,1.0,1,56.0,81.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),Klima,7,Ara Kat,Evet,6-10 arası,Esenyurt,1899000.0,,Boş,Sadece Beyaz Eşya
+4864897.0,2.0,1,100.0,110.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,0,Esenyurt,1530000.0,,Boş,Eşyasız
+4864899.0,2.0,1,100.0,110.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,4,Ara Kat,Evet,4,Beylikdüzü,2650000.0,,Kiracılı,Eşyasız
+4864903.0,3.0,1,130.0,145.0,1.0,6,0  TL  (aylık),0  TL  (aylık),,2,Ara Kat,Evet,4,Beylikdüzü,2300000.0,,Kiracılı,Eşyasız
+4864908.0,2.0,2,180.0,200.0,2.0,5,0  TL  (aylık),0  TL  (aylık),,4,Ara Kat,Evet,1,Beylikdüzü,1700000.0,,Boş,Eşyasız
+4864915.0,2.0,1,100.0,110.0,1.0,6,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,4,Esenyurt,1570000.0,,Boş,Eşyasız
+4864912.0,2.0,1,100.0,110.0,1.0,6,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,4,Esenyurt,1580000.0,,Kiracılı,Eşyasız
+4864922.0,2.0,1,100.0,110.0,1.0,6,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,4,Esenyurt,1500000.0,,Kiracılı,Eşyasız
+4864918.0,2.0,1,90.0,100.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,4,Ara Kat,Evet,6-10 arası,Esenyurt,2100000.0,,Kiracılı,Eşyasız
+4864927.0,3.0,1,120.0,130.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,1,Ara Kat,Evet,4,Beylikdüzü,2500000.0,,Kiracılı,Eşyasız
+4864924.0,2.0,1,100.0,110.0,1.0,9,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,11-15 arası,Beylikdüzü,9900000.0,,Kiracılı,Eşyasız
+4411918.0,3.0,2,225.0,360.0,3.0,,,,,,,Hayır,,Esenler,1350000.0,,,
+4785949.0,2.0,1,80.0,100.0,1.0,5,0  TL  (aylık),0  TL  (aylık),,Bahçe katı,,Evet,6-10 arası,Kağıthane,12800000.0,,Boş,Eşyasız
+4643796.0,3.0,1,130.0,193.0,2.0,5,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem (Isı Payı Ölçer),5,En Üst Kat,Evet,0,Gaziosmanpaşa,3200000.0,,Boş,Eşyasız
+4211702.0,2.0,1,80.0,88.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,1,Gaziosmanpaşa,3100000.0,İkinci El,Kiracılı,Eşyasız
+4066173.0,3.0,1,110.0,125.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,,Evet,0,Bahçelievler,6850000.0,Sıfır,Boş,Eşyasız
+4765659.0,2.0,1,75.0,95.0,1.0,10-20 arası,,,Kombi (Doğalgaz),Zemin Kat,,Hayır,11-15 arası,Kağıthane,2545000.0,,Mülk Sahibi,Eşyasız
+4799459.0,1.0,1,32.0,55.0,1.0,10-20 arası,,,Merkezi Sistem (Isı Payı Ölçer),1,Ara Kat,Evet,6-10 arası,Beylikdüzü,6250000.0,,Boş,Eşyalı (Mobilyalı)
+4418179.0,3.0,1,120.0,135.0,2.0,9,0  TL  (aylık),10.000  TL  (aylık),Kombi (Doğalgaz),3,Ara Kat,Evet,11-15 arası,Ataşehir,14900000.0,İkinci El,Kiracılı,Eşyasız
+4739182.0,3.0,1,105.0,143.0,2.0,20 ve üzeri,2.400  TL  (aylık),,Merkezi Sistem (Isı Payı Ölçer),20 ve üzeri,Ara Kat,Evet,6-10 arası,Beylikdüzü,3750000.0,İkinci El,Mülk Sahibi,Sadece Mutfak
+4764369.0,4.0,1,160.0,180.0,3.0,4,0  TL  (aylık),0  TL  (aylık),,4,,Evet,0,Beylikdüzü,5500000.0,,Boş,Eşyasız
+4865585.0,3.0,1,160.0,175.0,2.0,9,0  TL  (aylık),0  TL  (aylık),Klima,3,Ara Kat,Evet,6-10 arası,Esenyurt,995000.0,,Boş,Eşyasız
+4865094.0,2.0,1,110.0,120.0,1.0,4,,,Kombi (Doğalgaz),Giriş Katı,,Evet,0,Beylikdüzü,2400000.0,Sıfır,Boş,
+4862997.0,2.0,1,100.0,110.0,1.0,5,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),1,Ara Kat,Evet,3,Kadıköy,14750000.0,Sıfır,Boş,Eşyasız
+4862156.0,3.0,1,105.0,140.0,2.0,10,0  TL  (aylık),40.000  TL  (aylık),Kombi (Doğalgaz),2,,Evet,11-15 arası,Kadıköy,11750000.0,,Boş,Eşyalı (Mobilyalı)
+4862159.0,3.0,1,130.0,150.0,1.0,7,0  TL  (aylık),0  TL  (aylık),Merkezi Sistem,1,,Evet,26-30 arası,Beylikdüzü,1550000.0,,Boş,
+4866450.0,2.0,1,115.0,125.0,1.0,10,,,Merkezi Sistem,6,Ara Kat,Evet,3,Kadıköy,14950000.0,İkinci El,Boş,
+4862157.0,4.0,2,160.0,200.0,2.0,10-20 arası,0  TL  (aylık),65.000  TL  (aylık),Kombi (Doğalgaz),11,,Evet,1,Gaziosmanpaşa,2550000.0,Sıfır,Boş,Eşyasız
+4866514.0,2.0,1,80.0,100.0,1.0,5,,,Kombi (Doğalgaz),Yüksek Giriş,Giriş Kat,Evet,5,Silivri,1350000.0,İkinci El,Kiracılı,Eşyasız
+4462566.0,2.0,1,75.0,85.0,1.0,4,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),Yüksek Giriş,Ara Kat,Hayır,26-30 arası,Esenyurt,1449000.0,İkinci El,Kiracılı,Eşyasız
+4827314.0,2.0,1,95.0,105.0,1.0,6,0  TL  (aylık),,Kombi (Doğalgaz),4,Ara Kat,Evet,4,Küçükçekmece,7000000.0,İkinci El,Mülk Sahibi,Eşyasız
+4798517.0,8.0,2,300.0,335.0,2.0,4,100  TL  (aylık),18.000  TL  (aylık),Kombi (Doğalgaz),,,Evet,26-30 arası,Bağcılar,3350000.0,İkinci El,,Eşyasız
+4823768.0,2.0,1,75.0,100.0,2.0,10,,,Kombi (Doğalgaz),3,,Evet,3,Kadıköy,8485000.0,İkinci El,,Eşyasız
+4862144.0,3.0,1,92.0,120.0,1.0,7,0  TL  (aylık),32.000  TL  (aylık),Kombi (Doğalgaz),3,,Evet,11-15 arası,Esenyurt,765000.0,,Boş,Eşyasız
+4735190.0,2.0,1,110.0,120.0,1.0,6,70  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,6-10 arası,Esenyurt,755000.0,,Boş,Eşyasız
+4735125.0,2.0,1,100.0,120.0,1.0,6,60  TL  (aylık),0  TL  (aylık),,Giriş Katı,,Evet,1,Esenyurt,897000.0,,Boş,Eşyasız
+4735163.0,1.0,1,80.0,90.0,1.0,10-20 arası,500  TL  (aylık),0  TL  (aylık),Merkezi Sistem,8,Ara Kat,Evet,4,Esenyurt,998000.0,,Boş,Eşyasız
+4735205.0,2.0,1,100.0,110.0,1.0,6,100  TL  (aylık),0  TL  (aylık),Klima,1,Ara Kat,Evet,0,Ataşehir,8350000.0,,Boş,Sadece Beyaz Eşya
+4829429.0,2.0,1,85.0,110.0,1.0,10-20 arası,0  TL  (aylık),0  TL  (aylık),,3,Ara Kat,Evet,11-15 arası,Beylikdüzü,8300000.0,,Kiracılı,Eşyasız
+4866424.0,3.0,1,165.0,180.0,2.0,5,0  TL  (aylık),35.000  TL  (aylık),Kombi (Doğalgaz),2,Ara Kat,Evet,6-10 arası,Sultanbeyli,3850000.0,Sıfır,Boş,Eşyasız
+4865322.0,4.0,1,140.0,160.0,2.0,3,0  TL  (aylık),0  TL  (aylık),Kombi (Doğalgaz),3,Dubleks,Evet,6-10 arası,Esenyurt,1575000.0,Sıfır,Kiracılı,Eşyasız
+4865214.0,2.0,1,115.0,125.0,1.0,4,,,Kombi (Doğalgaz),3,Ara Kat,Evet,0,,,Sıfır,Boş,
